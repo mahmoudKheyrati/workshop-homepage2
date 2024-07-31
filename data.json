@@ -1,0 +1,99 @@
+{
+  "heroData": {
+    "pitch": "Oval Markets multi-byte",
+    "title": "Quae ab sit optio nihil omnis fugiat rem molestiae.",
+    "subTitle": "Aut asperiores mollitia dolore impedit aliquid consequatur. Quia harum perferendis quis minus quis eius dolore consequatur. Quisquam qui nulla necessitatibus ex quia quo. Dolores ut neque sed aperiam voluptatem hic numquam. Doloribus perferendis deleniti nesciunt. Mollitia impedit non atque suscipit et placeat officia odio atque.",
+    "CTAButton": "see more",
+    "websiteTitle": "Hello world SSDs!!!!"
+  },
+  "speakerData": [
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Mr. Kristen Wisoky",
+      "description": "Laboriosam rerum voluptas qui dolores sint. Temporibus non quasi vel dolore voluptatem eaque. Aut sit consequatur."
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Mr. Kristen Wisoky2",
+      "description": "Sequi quis sit facilis possimus non."
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Mr. Kristen Wisoky3",
+      "description": "Sequi quis sit facilis possimus non."
+    }
+  ],
+  "timeTable": [
+    {
+      "time": "8:00 ~ 12:00",
+      "person": "Renee MacGyver",
+      "topic": "eum in sit",
+      "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+      "link": ""
+    },
+    {
+      "time": "8:00 ~ 12:00",
+      "person": "Renee MacGyver",
+      "topic": "eum in sit",
+      "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+      "link": ""
+    },
+    {
+      "time": "8:00 ~ 12:00",
+      "person": "Renee MacGyver",
+      "topic": "eum in sit",
+      "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+      "link": ""
+    },
+    {
+      "time": "8:00 ~ 12:00",
+      "person": "Renee MacGyver",
+      "topic": "eum in sit",
+      "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+      "link": ""
+    }
+  ],
+  "conferenceTeam": {
+    "team": [
+      {
+        "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+        "name": "Mr. Kristen Wisoky",
+        "description": "Sequi quis sit facilis possimus non."
+      },
+      {
+        "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+        "name": "Mr. Kristen Wisoky2",
+        "description": "Sequi quis sit facilis possimus non."
+      },
+      {
+        "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+        "name": "Mr. Kristen Wisoky3",
+        "description": "Sequi quis sit facilis possimus non."
+      }
+    ],
+    "moreInfo": [
+      {
+        "label": "Organizer",
+        "content": "GDG Lviv with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine"
+      },
+      {
+        "label": "What is a GDG?",
+        "content": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies."
+      },
+      {
+        "label": "What is DevFest?",
+        "content": "DevFests are community-led developer events hosted by Google Developer Groups around the globe."
+      }
+    ]
+  },
+  "sponsors": [
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "description": "Nam sit iusto dolore occaecati laboriosam voluptas rem sint beatae. Et harum dolorem ad aperiam quaerat culpa ipsam est. Aut aperiam id dignissimos sed. Non repellendus libero earum qui qui quia deleniti. Error architecto qui et velit et. Nulla ullam excepturi qui excepturi."
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "description": "Qui dolorem alias animi sed inventore quis at et voluptas. Sint ut reiciendis consectetur eius voluptatibus nulla delectus consectetur. Quod tempore consequatur qui. Eos voluptas molestiae aut est esse id quia. Quis ut cum est minus aliquid voluptates repudiandae."
+    }
+  ]
+}
