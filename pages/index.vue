@@ -1,13 +1,12 @@
-<script lang="ts" setup>
-import { heroData } from "~/data.json";
-useHead({
-  title: heroData.websiteTitle,
-});
-</script>
+<script setup lang="ts"></script>
+
 <template>
-  <HeroSection />
-  <SpeakersSection />
-  <TimeTableSection />
-  <ConferenceTeamSection />
-  <SponsorSection />
+  <SectionHero />
+  <SectionDescription />
+  <SectionSpeakers />
+  <SectionSchedule />
+  <SectionStaff />
+  <SectionSponsors />
+  <SectionFAQ />
+  <SectionFooter />
 </template>

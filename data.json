@@ -1,99 +1,165 @@
 {
-  "heroData": {
+  "hero": {
     "pitch": "Oval Markets multi-byte",
     "title": "Quae ab sit optio nihil omnis fugiat rem molestiae.",
-    "subTitle": "Aut asperiores mollitia dolore impedit aliquid consequatur. Quia harum perferendis quis minus quis eius dolore consequatur. Quisquam qui nulla necessitatibus ex quia quo. Dolores ut neque sed aperiam voluptatem hic numquam. Doloribus perferendis deleniti nesciunt. Mollitia impedit non atque suscipit et placeat officia odio atque.",
-    "CTAButton": "see more",
+    "subTitle": "Aut asperiores mollitia dolore impedit aliquid consequatur. Quia harum perferendis quis minus quis eius dolore consequatur.",
     "websiteTitle": "Hello world SSDs!!!!"
   },
-  "speakerData": [
+  "description": "Nesciunt delectus distinctio consequuntur aliquam. Non natus cumque quo. Quia ipsa molestiae itaque reiciendis suscipit enim neque. At suscipit aut consequuntur.Aut perspiciatis repellendus incidunt. Quia iusto reprehenderit sint cumque ipsam amet perspiciatis sapiente. Animi sint et rerum id consectetur. nim odit occaecati voluptate quaerat fugiat facere. Fugit neque et autem ad. Est neque distinctio velit. Ipsa neque corrupti quia et quis ut quas. Similique doloribus assumenda. Enim nemo aut est consequuntur est quam ratione consequatur ipsum.",
+  "speakersData": [
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Mr. Kristen Wisoky",
-      "description": "Laboriosam rerum voluptas qui dolores sint. Temporibus non quasi vel dolore voluptatem eaque. Aut sit consequatur."
+      "description": "Researcher @ Samsung"
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Mr. Kristen Wisoky",
+      "description": "Researcher @ Samsung"
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Mr. Kristen Wisoky2",
-      "description": "Sequi quis sit facilis possimus non."
+      "description": "Researcher @ Samsung"
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Mr. Kristen Wisoky2",
+      "description": "Researcher @ Samsung"
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Mr. Kristen Wisoky3",
-      "description": "Sequi quis sit facilis possimus non."
+      "description": "Researcher @ Samsung"
     }
   ],
-  "timeTable": [
+  "schedule": [
     {
-      "time": "8:00 ~ 12:00",
-      "person": "Renee MacGyver",
-      "topic": "eum in sit",
-      "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
-      "link": ""
+      "title": "Day #1",
+      "date": "23 July 2024",
+      "timeTable": [
+        {
+          "time": "8:00 ~ 12:00",
+          "speaker": "Renee MacGyver",
+          "topic": "New Network on chip SSD simulators",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": ""
+        },
+        {
+          "time": "8:00 ~ 12:00",
+          "speaker": "Renee MacGyver",
+          "topic": "eum in sit",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": ""
+        },
+        {
+          "time": "8:00 ~ 12:00",
+          "speaker": "Renee MacGyver",
+          "topic": "eum in sit",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": ""
+        },
+        {
+          "time": "8:00 ~ 12:00",
+          "speaker": "Renee MacGyver",
+          "topic": "eum in sit",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": ""
+        }
+      ]
     },
     {
-      "time": "8:00 ~ 12:00",
-      "person": "Renee MacGyver",
-      "topic": "eum in sit",
-      "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
-      "link": ""
-    },
-    {
-      "time": "8:00 ~ 12:00",
-      "person": "Renee MacGyver",
-      "topic": "eum in sit",
-      "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
-      "link": ""
-    },
-    {
-      "time": "8:00 ~ 12:00",
-      "person": "Renee MacGyver",
-      "topic": "eum in sit",
-      "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
-      "link": ""
+      "title": "Day #2",
+      "date": "24 July 2024",
+      "timeTable": [
+        {
+          "time": "8:00 ~ 12:00",
+          "speaker": "Renee MacGyver",
+          "topic": "New Network on chip SSD simulators",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": ""
+        },
+        {
+          "time": "8:00 ~ 12:00",
+          "speaker": "Renee MacGyver",
+          "topic": "eum in sit",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": ""
+        },
+        {
+          "time": "8:00 ~ 12:00",
+          "speaker": "Renee MacGyver",
+          "topic": "eum in sit",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": ""
+        },
+        {
+          "time": "8:00 ~ 12:00",
+          "speaker": "Renee MacGyver",
+          "topic": "eum in sit",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": ""
+        }
+      ]
     }
   ],
-  "conferenceTeam": {
-    "team": [
-      {
-        "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
-        "name": "Mr. Kristen Wisoky",
-        "description": "Sequi quis sit facilis possimus non."
-      },
-      {
-        "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
-        "name": "Mr. Kristen Wisoky2",
-        "description": "Sequi quis sit facilis possimus non."
-      },
-      {
-        "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
-        "name": "Mr. Kristen Wisoky3",
-        "description": "Sequi quis sit facilis possimus non."
-      }
-    ],
-    "moreInfo": [
-      {
-        "label": "Organizer",
-        "content": "GDG Lviv with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine"
-      },
-      {
-        "label": "What is a GDG?",
-        "content": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies."
-      },
-      {
-        "label": "What is DevFest?",
-        "content": "DevFests are community-led developer events hosted by Google Developer Groups around the globe."
-      }
-    ]
-  },
+  "staff": [
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Mr. Kristen Wisoky",
+      "description": "Sequi quis sit facilis non."
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Mr. Kristen Wisoky2",
+      "description": "Sequi quis sit facilis non."
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Mr. Kristen Wisoky3",
+      "description": "Sequi quis sit facilis non."
+    }
+  ],
   "sponsors": [
     {
-      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
-      "description": "Nam sit iusto dolore occaecati laboriosam voluptas rem sint beatae. Et harum dolorem ad aperiam quaerat culpa ipsam est. Aut aperiam id dignissimos sed. Non repellendus libero earum qui qui quia deleniti. Error architecto qui et velit et. Nulla ullam excepturi qui excepturi."
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Samsung_logo_blue.png/1200px-Samsung_logo_blue.png",
+      "description": "Nam sit iusto dolore occaecati.",
+      "link": ""
     },
     {
-      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
-      "description": "Qui dolorem alias animi sed inventore quis at et voluptas. Sint ut reiciendis consectetur eius voluptatibus nulla delectus consectetur. Quod tempore consequatur qui. Eos voluptas molestiae aut est esse id quia. Quis ut cum est minus aliquid voluptates repudiandae."
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Samsung_logo_blue.png/1200px-Samsung_logo_blue.png",
+      "description": "Nam sit iusto dolore occaecati.",
+      "link": ""
+    },
+    {
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Samsung_logo_blue.png/1200px-Samsung_logo_blue.png",
+      "description": "Nam sit iusto dolore occaecati.",
+      "link": ""
+    },
+    {
+      "logo": "/images/download.png",
+      "description": "Nam sit iusto dolore occaecati.",
+      "link": ""
     }
-  ]
+  ],
+  "FAQ": [
+    {
+      "label": "Organizer",
+      "content": "GDG Lviv with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine"
+    },
+    {
+      "label": "What is a GDG?",
+      "content": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies."
+    },
+    {
+      "label": "What is DevFest?",
+      "content": "DevFests are community-led developer events hosted by Google Developer Groups around the globe."
+    }
+  ],
+  "footer": {
+    "labName": "High Performance Computing Architectures and Networks Laboratory",
+    "address": "Room 703 Department of Computer Engineering Sharif University of Technology Tehran, Iran",
+    "tel": "+98 21 6616 6672",
+    "logo": "/images/logo.webp"
+  }
 }
