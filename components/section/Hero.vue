@@ -33,11 +33,11 @@ function scrollDown() {
           class="flex flex-col gap-4 items-start p-4 lg:p-0 text-gray-200 dark:text-white/60"
         >
           <h1
-            class="text-6xl font-bold bg-gradient-to-r from-blue-800 to-gray-600 dark:to-gray-400 inline-block text-transparent bg-clip-text"
+            class="text-4xl lg:text-6xl font-bold bg-gradient-to-r from-blue-800 to-gray-600 dark:to-gray-400 inline-block text-transparent bg-clip-text"
           >
             {{ hero.pitch }}
           </h1>
-          <p class="text-5xl font-bold">{{ hero.title }}</p>
+          <p class="text-3xl lg:text-5xl font-bold">{{ hero.title }}</p>
           <p class="text-2xl">{{ hero.subTitle }}</p>
         </div>
       </div>
