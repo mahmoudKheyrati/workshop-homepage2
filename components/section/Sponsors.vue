@@ -15,7 +15,7 @@ import { sponsors } from "~/data.json";
           >
             <div class="flex flex-col gap-2 justify-center items-center w-full">
               <NuxtImg
-                class="rounded-lg size-32 object-contain"
+                class="rounded-lg size-48 object-contain"
                 :src="data.logo"
                 alt="Avatar"
               />

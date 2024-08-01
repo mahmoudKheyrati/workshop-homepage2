@@ -1,6 +1,6 @@
 {
   "hero": {
-    "pitch": "Modern SSDs Workshop",
+    "pitch": "Recent Advances in SSD Research and Practice",
     "title": "Quae ab sit optio nihil omnis fugiat rem molestiae.",
     "subTitle": "Aut asperiores mollitia dolore impedit aliquid consequatur. Quia harum perferendis quis minus quis eius dolore consequatur.",
     "websiteTitle": "Modern SSDs Workshop"
@@ -9,29 +9,69 @@
   "speakersData": [
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
-      "name": "Mr. Kristen Wisoky",
-      "description": "Researcher @ Samsung"
+      "name": "Jisung Park",
+      "description": "Assistant Professor at POSTECH",
+      "email": "jisungpark@postech.ac.kr"
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
-      "name": "Mr. Kristen Wisoky2",
-      "description": "Researcher @ Samsung"
+      "name": "Zili Shao",
+      "description": "Professor at Chinese University of Hong Kong",
+      "email": "shao@cse.cuhk.edu.hk"
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
-      "name": "Mr. Kristen Wisoky2",
-      "description": "Researcher @ Samsung"
+      "name": "Patrick P. C. Lee",
+      "description": "Professor at Chinese University of Hong Kong",
+      "email": "pclee@cse.cuhk.edu.hk"
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
-      "name": "Mr. Kristen Wisoky3",
-      "description": "Researcher @ Samsung"
+      "name": "A. L. Narasimha Reddy",
+      "description": "Professor at Texas A&M University",
+      "email": "reddy@tamu.edu"
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Sam H. Noh",
+      "description": "Professor at Virginia Tech",
+      "email": "samhnoh@vt.edu"
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Li-Pin Chang",
+      "description": "Professor at National Yang Ming Chiao Tung University",
+      "email": "lpchang@cs.nctu.edu.tw"
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Hossein Asadi",
+      "description": "Professor at Sharif University of Technology",
+      "email": "asadi@sharif.edu"
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "John Kim",
+      "description": "Asscoiate Professor at Chinese University of KAIST",
+      "email": "jjk12@kaist.edu"
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Reza Salkhordeh",
+      "description": "Researcher at University Mainz",
+      "email": "rsalkhor@uni-mainz.de"
+    },
+    {
+      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "name": "Jennie Hill",
+      "description": "Assistant Professor at US Naval Academy",
+      "email": "jehill@usna.edu"
     }
   ],
   "schedule": [
     {
       "title": "Day #1",
-      "date": "23 July 2024",
+      "date": "26 September 2024",
       "timeTable": [
         {
           "time": "8:00 ~ 12:00",
@@ -65,7 +105,7 @@
     },
     {
       "title": "Day #2",
-      "date": "24 July 2024",
+      "date": "27 September 2024",
       "timeTable": [
         {
           "time": "8:00 ~ 12:00",
@@ -100,14 +140,16 @@
   ],
   "staff": [
     {
-      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
-      "name": "Mr. Kristen Wisoky",
-      "description": "Sequi quis sit facilis non."
+      "profile": "/images/hamid_sarbazi_azad.jpg",
+      "name": "Hamid Sarbazi-Azad",
+      "description": "Organizer | Professor at Sharif University of Technology",
+      "email": ""
     },
     {
-      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
-      "name": "Mr. Kristen Wisoky2",
-      "description": "Sequi quis sit facilis non."
+      "profile": "/images/Jeong_A_Lee.jpg",
+      "name": "Jeong-A Lee",
+      "description": "Organizer |  Professor at Chosun University",
+      "email": ""
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
@@ -117,30 +159,20 @@
   ],
   "sponsors": [
     {
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Samsung_logo_blue.png/1200px-Samsung_logo_blue.png",
-      "description": "Nam sit iusto dolore occaecati.",
-      "link": ""
+      "logo": "/images/KIISE.png",
+      "description": "KIISE, Korean Institute of Information Scientists and Engineers",
+      "link": "http://m.kiise.or.kr/academyEng/main/getContent.faEng?content_no=2&MENU_ID=010200"
     },
     {
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Samsung_logo_blue.png/1200px-Samsung_logo_blue.png",
-      "description": "Nam sit iusto dolore occaecati.",
-      "link": ""
-    },
-    {
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Samsung_logo_blue.png/1200px-Samsung_logo_blue.png",
-      "description": "Nam sit iusto dolore occaecati.",
-      "link": ""
-    },
-    {
-      "logo": "/images/download.png",
-      "description": "Nam sit iusto dolore occaecati.",
-      "link": ""
+      "logo": "/images/computer_society_of_iran.png",
+      "description": "Computer Society of Iran",
+      "link": "https://csi.org.ir/en/"
     }
   ],
   "FAQ": [
     {
       "label": "Organizer",
-      "content": "GDG Lviv with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine"
+      "content": "Organizers: Hamid Sarbazi-Azad and Jeong-A Lee"
     },
     {
       "label": "What is a GDG?",
