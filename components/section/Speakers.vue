@@ -18,7 +18,7 @@ import { speakersData } from "~/data.json";
             />
             <p class="text-xl font-bold">{{ data.name }}</p>
 
-            <p class="text-center text-white/75">
+            <p class="text-center opacity-75">
               {{ data.description }}
             </p>
           </div>

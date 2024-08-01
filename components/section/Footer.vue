@@ -7,11 +7,11 @@ import { footer } from "~/data.json";
   >
     <UContainer>
       <div class="flex flex-col gap-2">
-        <div class="flex gap-2 items-center">
-          <NuxtImg class="size-16" :src="footer.logo" />
+        <div class="flex gap-2 items-center justify-between">
           <p>
             {{ footer.labName }}
           </p>
+          <NuxtImg class="size-16" :src="footer.logo" />
         </div>
         <div>
           {{ footer.address }}

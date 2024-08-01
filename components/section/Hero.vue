@@ -56,8 +56,8 @@ function scrollDown() {
             @click="scrollDown"
             color="blue"
             size="xl"
-            variant="link"
-            class="rounded-full font-bold px-8 py-2 text-xl leading-9"
+            variant="ghost"
+            class="rounded-full font-bold px-8 py-2 text-xl leading-9 light:hover:bg-blue-200/20"
           >
             Schedule
           </UButton>
