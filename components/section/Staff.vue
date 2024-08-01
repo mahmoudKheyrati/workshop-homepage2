@@ -18,9 +18,23 @@ import { staff } from "~/data.json";
             />
             <p class="text-xl font-bold">{{ data.name }}</p>
 
-            <p class="text-center opacity-75">
+            <p class="text-center opacity-75 mb-2">
               {{ data.description }}
             </p>
+            <span class="flex gap-2 items-center">
+              <a :href="data.linkedin">
+                <UIcon
+                  name="radix-icons:linkedin-logo"
+                  class="size-5 opacity-75 cursor-pointer"
+                />
+              </a>
+              <a :href="`mailto:${data.email}`">
+                <UIcon
+                  name="tabler:mail-filled"
+                  class="size-5 opacity-75 cursor-pointer"
+                />
+              </a>
+            </span>
           </div>
         </UCard>
       </div>
