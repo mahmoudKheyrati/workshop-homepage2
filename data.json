@@ -11,61 +11,80 @@
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Jisung Park",
       "description": "Assistant Professor at POSTECH",
-      "email": "jisungpark@postech.ac.kr"
+      "email": "jisungpark@postech.ac.kr",
+      "linkedin": "",
+      "linkedin": ""
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Zili Shao",
       "description": "Professor at Chinese University of Hong Kong",
-      "email": "shao@cse.cuhk.edu.hk"
+      "email": "shao@cse.cuhk.edu.hk",
+      "linkedin": "",
+      "linkedin": ""
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Patrick P. C. Lee",
       "description": "Professor at Chinese University of Hong Kong",
-      "email": "pclee@cse.cuhk.edu.hk"
+      "email": "pclee@cse.cuhk.edu.hk",
+      "linkedin": "",
+      "linkedin": ""
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "A. L. Narasimha Reddy",
       "description": "Professor at Texas A&M University",
-      "email": "reddy@tamu.edu"
+      "email": "reddy@tamu.edu",
+      "linkedin": "",
+      "linkedin": ""
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Sam H. Noh",
       "description": "Professor at Virginia Tech",
-      "email": "samhnoh@vt.edu"
+      "email": "samhnoh@vt.edu",
+      "linkedin": "",
+      "linkedin": ""
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Li-Pin Chang",
       "description": "Professor at National Yang Ming Chiao Tung University",
-      "email": "lpchang@cs.nctu.edu.tw"
+      "email": "lpchang@cs.nctu.edu.tw",
+      "linkedin": ""
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Hossein Asadi",
       "description": "Professor at Sharif University of Technology",
-      "email": "asadi@sharif.edu"
+      "email": "asadi@sharif.edu",
+      "linkedin": "",
+      "linkedin": ""
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "John Kim",
       "description": "Asscoiate Professor at Chinese University of KAIST",
-      "email": "jjk12@kaist.edu"
+      "email": "jjk12@kaist.edu",
+      "linkedin": "",
+      "linkedin": ""
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Reza Salkhordeh",
       "description": "Researcher at University Mainz",
-      "email": "rsalkhor@uni-mainz.de"
+      "email": "rsalkhor@uni-mainz.de",
+      "linkedin": "",
+      "linkedin": ""
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Jennie Hill",
       "description": "Assistant Professor at US Naval Academy",
-      "email": "jehill@usna.edu"
+      "email": "jehill@usna.edu",
+      "linkedin": "",
+      "linkedin": ""
     }
   ],
   "schedule": [
@@ -143,18 +162,22 @@
       "profile": "/images/hamid_sarbazi_azad.jpg",
       "name": "Hamid Sarbazi-Azad",
       "description": "Organizer | Professor at Sharif University of Technology",
-      "email": ""
+      "email": "",
+      "linkedin": ""
     },
     {
       "profile": "/images/Jeong_A_Lee.jpg",
       "name": "Jeong-A Lee",
       "description": "Organizer |  Professor at Chosun University",
-      "email": ""
+      "email": "",
+      "linkedin": ""
     },
     {
       "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
       "name": "Mr. Kristen Wisoky3",
-      "description": "Sequi quis sit facilis non."
+      "description": "Sequi quis sit facilis non.",
+      "email": "",
+      "linkedin": ""
     }
   ],
   "sponsors": [
