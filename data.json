@@ -194,9 +194,12 @@
       "content": "DevFests are community-led developer events hosted by Google Developer Groups around the globe."
     }
   ],
-  "contacts": {
-    "text": "For any inquiries or to get in touch with the organizers, please use the following email addresses: <br/> <a href='mailto:azad@sharif.edu'>azad@sharif.edu</a> , <a href='mailto:azad@ipm.ir'>azad@ipm.ir</a> , <a href='mailto:hamid@chosun.ac.kr'>hamid@chosun.ac.kr</a> <br> <a href='mailto:jalee@chosun.ac.kr'>jalee@chosun.ac.kr</a>"
-  },
+  "contacts": [
+    "azad@sharif.edu",
+    "zad@ipm.ir",
+    "hamid@chosun.ac.kr",
+    "jalee@chosun.ac.kr"
+  ],
   "footer": {
     "labName": "High Performance Computing Architectures and Networks Laboratory",
     "address": "Room 703 Department of Computer Engineering Sharif University of Technology Tehran, Iran",

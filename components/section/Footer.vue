@@ -5,14 +5,12 @@ import { footer } from "~/data.json";
   <footer
     class="dark:bg-neutral-900 border-t border-gray-300 dark:border-gray-700 py-4 text-md"
   >
-    <UContainer>
-      <div class="flex flex-col gap-2">
-        <div class="flex gap-2 items-center justify-between">
-          <p>
-            {{ footer.labName }}
-          </p>
-          <NuxtImg class="size-16" :src="footer.logo" />
-        </div>
+    <UContainer class="flex gap-2 flex-wrap">
+      <div class="flex flex-col gap-2 flex-1">
+        <p>
+          {{ footer.labName }}
+        </p>
+
         <div>
           {{ footer.address }}
         </div>
@@ -25,6 +23,7 @@ import { footer } from "~/data.json";
           {{ footer.tel }}
         </UButton>
       </div>
+      <NuxtImg class="size-16" :src="footer.logo" />
     </UContainer>
   </footer>
 </template>
