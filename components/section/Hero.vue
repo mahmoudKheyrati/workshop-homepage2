@@ -23,7 +23,7 @@ function scrollDown() {
       placeholder
     />
     <div
-      class="absolute -z-10 bg-gradient-to-r from-black to-black/40 inset-0"
+      class="absolute -z-10 bg-gradient-to-r from-black to-black/20 inset-0"
     />
     <UContainer
       class="grid grid-cols-1 lg:grid-cols-2 lg:grid-rows-4 h-full items-center"
@@ -33,12 +33,12 @@ function scrollDown() {
           class="flex flex-col gap-4 items-start p-4 lg:p-0 text-gray-200 dark:text-white/60"
         >
           <h1
-            class="text-4xl lg:text-6xl font-bold bg-gradient-to-r from-blue-800 to-gray-600 dark:to-gray-400 inline-block text-transparent bg-clip-text"
+            class="text-6xl lg:text-4xl font-bold bg-gradient-to-r from-blue-800 to-gray-600 dark:to-gray-400 inline-block text-transparent bg-clip-text"
           >
             {{ hero.pitch }}
           </h1>
           <p class="text-3xl lg:text-5xl font-bold">{{ hero.title }}</p>
-          <p class="text-2xl">{{ hero.subTitle }}</p>
+          <p class="text-3xl">{{ hero.subTitle }}</p>
         </div>
       </div>
 

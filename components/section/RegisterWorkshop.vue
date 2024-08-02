@@ -2,7 +2,7 @@
 import { register_workshop } from "~/data.json";
 </script>
 <template>
-  <AppSection title="Register Workshop">
+  <AppSection title="Workshop Registration">
 
     <div class="lg:col-span-2">
       <p class="">
