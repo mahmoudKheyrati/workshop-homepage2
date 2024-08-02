@@ -3,29 +3,26 @@ import { register_workshop } from "~/data.json";
 </script>
 <template>
   <AppSection title="Workshop Registration">
-
     <div class="lg:col-span-2">
-      <p class="">
-        {{ register_workshop.text }}
-      </p>
-      <div class="flex flex-wrap items-right gap-4 justify-center">
-        <UButton
-          color="blue"
-          size="l"
-          variant="solid"
-          class="rounded-full font-bold px-4 py-2 text-xl leading-9"
-        >
-          <a :href="register_workshop.link" target="_blank" class="no-underline text-white">
+      <div class="flex flex-col gap-4">
+        <p class="">
+          {{ register_workshop.text }}
+        </p>
+        <div class="text-center">
+          <UButton
+            color="blue"
+            variant="solid"
+            class="rounded-full font-bold px-10 py-2 text-lg leading-9"
+            :to="register_workshop.link"
+            target="_blank"
+          >
             Register Workshop
-          </a>
-        </UButton>
-
+          </UButton>
+        </div>
       </div>
     </div>
-
   </AppSection>
 </template>
-
 
 <!--        <UButton-->
 <!--          @click="scrollDown"-->
