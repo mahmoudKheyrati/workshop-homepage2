@@ -2,9 +2,7 @@
 import { description } from "~/data.json";
 </script>
 <template>
-  <AppSection title="Description">
-    <p class="">
-      {{ description }}
-    </p>
+  <AppSection title="The Workshop">
+    <p class="" v-html="description"/>
   </AppSection>
 </template>

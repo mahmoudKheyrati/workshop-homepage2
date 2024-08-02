@@ -1,12 +1,16 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Contacts from "~/components/section/Contacts.vue";
+</script>
 
 <template>
   <SectionHero />
   <SectionDescription />
   <SectionSpeakers />
-  <SectionSchedule />
-  <SectionStaff />
-  <SectionSponsors />
-  <SectionFAQ />
+  <SectionWorkshopProgram />
+  <SectionRegisterWorkshop/>
+  <SectionOrganizers />
+  <SectionTechnicallySupportedBy />
+<!--  <SectionFAQ />-->
+   <Contacts />
   <SectionFooter />
 </template>

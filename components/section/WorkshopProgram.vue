@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import { schedule } from "~/data.json";
+import { workshop_program } from "~/data.json";
 </script>
 <template>
-  <AppSection title="Schedule">
+  <AppSection title="Workshop Program">
     <div
-      v-for="(plan, index) in schedule"
+      v-for="(plan, index) in workshop_program"
       :key="index"
       class="flex flex-col gap-8 mb-8"
     >

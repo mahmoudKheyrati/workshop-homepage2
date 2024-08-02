@@ -1,0 +1,14 @@
+.contact-description {
+    font-size: 16px;
+    color: #333;
+}
+
+.contact-description a {
+    font-weight: bold;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.contact-description a:hover {
+    text-decoration: underline;
+}

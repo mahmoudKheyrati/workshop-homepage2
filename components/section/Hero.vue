@@ -41,28 +41,7 @@ function scrollDown() {
           <p class="text-2xl">{{ hero.subTitle }}</p>
         </div>
       </div>
-      <div class="lg:col-span-2">
-        <div class="flex flex-wrap items-center gap-4 justify-center">
-          <UButton
-            color="blue"
-            size="xl"
-            variant="solid"
-            class="rounded-full font-bold px-8 py-2 text-xl leading-9"
-            to="https://hpcan-homepage.vercel.app/"
-          >
-            Register Workshop
-          </UButton>
-          <UButton
-            @click="scrollDown"
-            color="blue"
-            size="xl"
-            variant="ghost"
-            class="rounded-full font-bold px-8 py-2 text-xl leading-9 light:hover:bg-blue-200/20"
-          >
-            Schedule
-          </UButton>
-        </div>
-      </div>
+
     </UContainer>
   </div>
 </template>
