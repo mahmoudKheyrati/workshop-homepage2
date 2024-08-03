@@ -15,9 +15,7 @@
 
     <div class="overflow-y-auto flex-1 flex flex-col">
       <p>
-        The homepage of the International Online Workshop "Recent Advances in
-        SSD Research and Practice" is launched. A special issue in The Journal
-        of
+        A special issue in The Journal of Supercomputing is arranged to  publish papers based on the presented talks in the workshop.
       </p>
       <UDivider
         size="xs"
@@ -30,8 +28,7 @@
         }"
       />
       <p>
-        Supercomputing is arranged to publish papers based on the presented
-        talks in the workshop.
+        The homepage of the International Online Workshop "Recent Advances in SSD Research and Practice" is launched.
       </p>
     </div>
   </div>
