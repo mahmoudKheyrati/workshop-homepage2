@@ -30,7 +30,7 @@ function scrollDown() {
     >
       <div class="lg:col-span-1 lg:row-span-2">
         <div
-          class="flex flex-col gap-4 items-start p-4 lg:p-0 text-gray-200 dark:text-white/60"
+          class="flex flex-col gap-4 items-start p-4 lg:p-0 text-gray-300 dark:text-white/70"
         >
           <h1
             class="text-6xl lg:text-4xl font-bold bg-gradient-to-r from-blue-800 to-gray-600 dark:to-gray-400 inline-block text-transparent bg-clip-text"

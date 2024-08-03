@@ -22,13 +22,13 @@ import { speakersData } from "~/data.json";
               {{ data.description }}
             </p>
             <span class="flex gap-2 items-center">
-              <a :href="data.linkedin">
+              <a v-if="data.linkedin" :href="data.linkedin">
                 <UIcon
                   name="radix-icons:linkedin-logo"
                   class="size-5 opacity-75 cursor-pointer"
                 />
               </a>
-              <a :href="`mailto:${data.email}`">
+              <a v-if="data.email" :href="`mailto:${data.email}`">
                 <UIcon
                   name="tabler:mail-filled"
                   class="size-5 opacity-75 cursor-pointer"
