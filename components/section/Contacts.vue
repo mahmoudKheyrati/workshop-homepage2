@@ -7,7 +7,7 @@ import { contacts } from "~/data.json";
       For any inquiries or to get in touch with the organizers, please use the
       following email addresses:
     </p>
-    <div class="flex gap-2">
+    <div class="flex gap-2 flex-wrap">
       <UButton
         v-for="contact in contacts"
         :key="contact"

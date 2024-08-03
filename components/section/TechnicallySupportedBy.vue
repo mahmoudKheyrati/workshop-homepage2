@@ -2,7 +2,7 @@
 import { technically_supported_by } from "~/data.json";
 </script>
 <template>
-  <AppSection title="Technically supported by">
+  <AppSection title="Technically Supported by">
     <div class="flex flex-wrap items-stretch justify-center gap-8">
       <div
         class="flex-[0_0_100%] md:flex-[0_0_calc(50%-1rem)] lg:flex-[0_0_calc(25%-1.5rem)]"
