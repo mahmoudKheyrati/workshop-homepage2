@@ -76,6 +76,20 @@
       "description": "Researcher at University Mainz",
       "email": "rsalkhor@uni-mainz.de",
       "linkedin": ""
+    },
+    {
+      "profile": "/images/Reza-Salkhordeh.png",
+      "name": "TBD",
+      "description": "Researcher at University Mainz",
+      "email": "rsalkhor@uni-mainz.de",
+      "linkedin": ""
+    },
+    {
+      "profile": "/images/Reza-Salkhordeh.png",
+      "name": "TBD",
+      "description": "Researcher at University Mainz",
+      "email": "rsalkhor@uni-mainz.de",
+      "linkedin": ""
     }
   ],
   "workshop_program": [
@@ -84,32 +98,53 @@
       "date": "26 September 2024",
       "timeTable": [
         {
-          "time": "8:00 ~ 12:00",
+          "time": "10:00 ~ 11:00",
           "speaker": "Renee MacGyver",
           "topic": "New Network on chip SSD simulators",
           "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
-          "link": ""
+          "link": "a"
         },
         {
-          "time": "8:00 ~ 12:00",
+          "time": "11:00 ~ 12:00",
           "speaker": "Renee MacGyver",
           "topic": "eum in sit",
           "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
-          "link": ""
+          "link": "a"
         },
         {
-          "time": "8:00 ~ 12:00",
+          "time": "12:00 ~ 13:00",
           "speaker": "Renee MacGyver",
           "topic": "eum in sit",
           "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": "a"
+        },
+        {
+          "time": "13:00 ~ 14:00",
+          "speaker": "",
+          "topic": "Break",
+          "description": "",
           "link": ""
         },
         {
-          "time": "8:00 ~ 12:00",
+          "time": "14:00 ~ 15:00",
           "speaker": "Renee MacGyver",
           "topic": "eum in sit",
           "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
-          "link": ""
+          "link": "a"
+        },
+        {
+          "time": "15:00 ~ 16:00",
+          "speaker": "Renee MacGyver",
+          "topic": "eum in sit",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": "a"
+        },
+        {
+          "time": "16:00 ~ 17:00",
+          "speaker": "Renee MacGyver",
+          "topic": "eum in sit",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": "a"
         }
       ]
     },
@@ -118,66 +153,92 @@
       "date": "27 September 2024",
       "timeTable": [
         {
-          "time": "8:00 ~ 12:00",
+          "time": "10:00 ~ 11:00",
           "speaker": "Renee MacGyver",
           "topic": "New Network on chip SSD simulators",
           "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
-          "link": ""
+          "link": "a"
         },
         {
-          "time": "8:00 ~ 12:00",
+          "time": "11:00 ~ 12:00",
           "speaker": "Renee MacGyver",
           "topic": "eum in sit",
           "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
-          "link": ""
+          "link": "a"
         },
         {
-          "time": "8:00 ~ 12:00",
+          "time": "12:00 ~ 13:00",
           "speaker": "Renee MacGyver",
           "topic": "eum in sit",
           "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": "a"
+        },
+        {
+          "time": "13:00 ~ 14:00",
+          "speaker": "",
+          "topic": "Break",
+          "description": "",
           "link": ""
         },
         {
-          "time": "8:00 ~ 12:00",
+          "time": "14:00 ~ 15:00",
           "speaker": "Renee MacGyver",
           "topic": "eum in sit",
           "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
-          "link": ""
+          "link": "a"
+        },
+        {
+          "time": "15:00 ~ 16:00",
+          "speaker": "Renee MacGyver",
+          "topic": "eum in sit",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": "a"
+        },
+        {
+          "time": "16:00 ~ 17:00",
+          "speaker": "Renee MacGyver",
+          "topic": "eum in sit",
+          "description": "Quam et eum et error et provident asperiores. Incidunt velit aut quos vero ut aspernatur est. Officiis voluptate delectus. Porro cupiditate odit mollitia soluta officiis. Quis cum ut.",
+          "link": "a"
         }
       ]
     }
   ],
   "register_workshop": {
-    "text": "You can register for workshops by clicking on the register workshop button.",
+    "text": "You can register for the workshop by clicking on the register workshop button.",
     "link": "https://hpcan-homepage.vercel.app/"
   },
   "organizers": [
-    {
-      "profile": "/images/hamid_sarbazi_azad.jpg",
-      "name": "Hamid Sarbazi-Azad",
-      "description": "Professor at Sharif University of Technology",
-      "email": "azad@sharif.edu",
-      "linkedin": ""
-    },
     {
       "profile": "/images/Jeong_A_Lee.jpg",
       "name": "Jeong-A Lee",
       "description": "Professor at Chosun University",
       "email": "jalee@chosun.ac.kr",
       "linkedin": ""
+    },
+    {
+      "profile": "/images/hamid_sarbazi_azad.jpg",
+      "name": "Hamid Sarbazi-Azad",
+      "description": "Professor at Sharif University of Technology",
+      "email": "azad@sharif.edu",
+      "linkedin": ""
     }
   ],
   "technically_supported_by": [
     {
       "logo": "/images/KIISE.png",
-      "description": "KIISE, Korean Institute of Information Scientists and Engineers",
+      "description": "Korean Institute of Information Scientists and Engineers (KIISE)",
       "link": "http://m.kiise.or.kr/academyEng/main/getContent.faEng?content_no=2&MENU_ID=010200"
     },
     {
       "logo": "/images/computer_society_of_iran.png",
-      "description": "Computer Society of Iran",
+      "description": "Computer Society of Iran (CSI)",
       "link": "https://csi.org.ir/en/"
+    },
+    {
+      "logo": "/images/springer.png",
+      "description": "The journal of supercomputing",
+      "link": "https://link.springer.com/journal/11227"
     }
   ],
   "FAQ": [

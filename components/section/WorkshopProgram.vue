@@ -25,11 +25,13 @@ import { workshop_program } from "~/data.json";
           <span class="text-3xl font-bold lg:me-16 opacity-50">{{
             event.time
           }}</span>
-          <span class="text-3xl font-black">{{ event.topic }},</span>
-          <span class="text-2xl lg:flex-1 opacity-85">
+          <span v-if="event.speaker" class="text-3xl font-black">{{ event.topic }},</span>
+          <span v-else="event.speaker" class="text-3xl font-black">{{ event.topic }}</span>
+
+          <span v-if="event.speaker" class="text-2xl lg:flex-1 opacity-85">
             speaker:{{ event.speaker }}
           </span>
-          <UButton :to="event.link" variant="ghost" size="xl" class="">
+          <UButton v-if="event.link" :to="event.link" variant="ghost" size="xl" class="">
             Workshop Link
           </UButton>
         </div>
