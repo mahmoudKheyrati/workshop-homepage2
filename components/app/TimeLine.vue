@@ -31,7 +31,7 @@ function openModal(e: Event) {
       <span v-else class="text-3xl font-black">{{ event.topic }}</span>
       <span
         v-if="event.speaker"
-        class="text-2xl lg:flex-1 opacity-85 underline underline-offset-4"
+        class="text-xl lg:flex-1 opacity-85 underline underline-offset-4"
         @click="openModal"
       >
         speaker:{{ event.speaker }}

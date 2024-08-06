@@ -41,7 +41,7 @@ import { workshop_program } from "~/data.json";
         </template>
 
         <template #item="{ item }">
-          <p class="lg:ps-[312px]">
+          <p class="lg:ps-[312px] mt-2">
             {{ item.content }}
           </p>
         </template>
