@@ -18,77 +18,88 @@
     {
       "profile": "/images/PatrickPC_Lee.png",
       "name": "Patrick P. C. Lee",
-      "description": "Professor at Chinese University of Hong Kong",
+      "rank": "Professor",
+      "description": "Chinese University of Hong Kong",
       "email": "pclee@cse.cuhk.edu.hk",
       "linkedin": ""
     },
     {
       "profile": "/images/ALNarasimha_Reddy.png",
       "name": "A. L. Narasimha Reddy",
-      "description": "Professor at Texas A&M University",
+      "rank": "Professor",
+      "description": "Texas A&M University",
       "email": "reddy@tamu.edu",
       "linkedin": ""
     },
     {
       "profile": "/images/SamH_Noh.png",
       "name": "Sam H. Noh",
-      "description": "Professor at Virginia Tech",
+      "rank": "Professor",
+      "description": "Virginia Tech",
       "email": "samhnoh@vt.edu",
       "linkedin": ""
     },
     {
       "profile": "/images/LiPin_Chang.png",
       "name": "Li-Pin Chang",
-      "description": "Professor at National Yang Ming Chiao Tung University",
+      "rank": "Professor",
+      "description": "National Yang Ming Chiao Tung University",
       "email": "lpchang@cs.nctu.edu.tw",
       "linkedin": ""
     },
     {
       "profile": "/images/Hossein_Asadi.png",
       "name": "Hossein Asadi",
-      "description": "Professor at Sharif University of Technology",
+      "rank": "Professor",
+      "description": "Sharif University of Technology",
       "email": "asadi@sharif.edu",
       "linkedin": ""
     },
     {
       "profile": "/images/John_Kim.png",
       "name": "John Kim",
-      "description": "Asscoiate Professor at Chinese University of KAIST",
+      "rank": "Associate Professor",
+      "description": "Chinese University of KAIST",
       "email": "jjk12@kaist.edu",
       "linkedin": ""
     },
     {
       "profile": "/images/Jisung_Park.png",
       "name": "Jisung Park",
-      "description": "Assistant Professor at POSTECH",
+      "rank": "Assistant Professor",
+      "description": "POSTECH",
       "email": "jisungpark@postech.ac.kr",
       "linkedin": ""
     },
     {
       "profile": "/images/Jennie_Hill.png",
       "name": "Jennie Hill",
-      "description": "Assistant Professor at US Naval Academy",
+      "rank": "Assistant Professor",
+      "description": "US Naval Academy",
       "email": "jehill@usna.edu",
       "linkedin": ""
     },
     {
       "profile": "/images/Reza-Salkhordeh.png",
       "name": "Reza Salkhordeh",
-      "description": "Researcher at University Mainz",
+      "rank": "Researcher",
+      "description": "University Mainz",
       "email": "rsalkhor@uni-mainz.de",
       "linkedin": ""
     },
     {
       "profile": "/images/Reza-Salkhordeh.png",
       "name": "TBD",
-      "description": "Researcher at University Mainz",
+      "rank": "Researcher",
+      "description": "University Mainz",
       "email": "rsalkhor@uni-mainz.de",
       "linkedin": ""
     },
     {
       "profile": "/images/Reza-Salkhordeh.png",
       "name": "TBD",
-      "description": "Researcher at University Mainz",
+      "rank": "Researcher",
+      "description": "University Mainz",
       "email": "rsalkhor@uni-mainz.de",
       "linkedin": ""
     }
