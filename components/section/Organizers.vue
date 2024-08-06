@@ -10,13 +10,14 @@ import { organizers } from "~/data.json";
         :key="index"
       >
         <UCard class="h-full">
-          <div class="flex flex-col gap-2 justify-center items-center">
+          <div class="flex flex-col justify-center items-center">
             <NuxtImg
-              class="rounded-full size-32"
+              class="rounded-full size-32 mb-4"
               :src="data.profile"
               alt="Avatar"
             />
             <p class="text-xl font-bold">{{ data.name }}</p>
+            <p class="text-center opacity-95">{{ data.rank }}</p>
 
             <p class="text-center opacity-75 mb-2">
               {{ data.description }}
@@ -28,12 +29,6 @@ import { organizers } from "~/data.json";
                   class="size-5 opacity-75 cursor-pointer"
                 />
               </a>
-              <!-- <a v-if="data.email" :href="`mailto:${data.email}`">
-                <UIcon
-                  name="tabler:mail-filled"
-                  class="size-5 opacity-75 cursor-pointer"
-                />
-              </a> -->
               <p class="text-center">{{ data.email }}</p>
             </span>
           </div>

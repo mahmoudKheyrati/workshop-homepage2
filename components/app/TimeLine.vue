@@ -21,7 +21,9 @@ function openModal(e: Event) {
   <div
     class="flex flex-col lg:flex-row flex-wrap gap-4 lg:gap-2 items-start lg:items-center w-full"
   >
-    <span class="text-3xl font-bold lg:me-16 opacity-50">{{ event.time }}</span>
+    <span class="text-3xl font-bold lg:me-16 opacity-50 w-60">{{
+      event.time
+    }}</span>
     <p class="inline-flex flex-col flex-1 text-start items-start">
       <span v-if="event.speaker" class="text-3xl font-black">{{
         event.topic

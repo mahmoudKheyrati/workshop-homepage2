@@ -227,14 +227,16 @@
     {
       "profile": "/images/Jeong_A_Lee.jpg",
       "name": "Jeong-A Lee",
-      "description": "Professor at Chosun University",
+      "description": "Chosun University",
+      "rank": "Professor",
       "email": "jalee@chosun.ac.kr",
       "linkedin": ""
     },
     {
       "profile": "/images/hamid_sarbazi_azad.jpg",
       "name": "Hamid Sarbazi-Azad",
-      "description": "Professor at Sharif University of Technology",
+      "description": "Sharif University of Technology",
+      "rank": "Professor",
       "email": "azad@{sharif.edu, ipm.ir} \n hamid@chousn.ac.kr",
       "linkedin": ""
     }
