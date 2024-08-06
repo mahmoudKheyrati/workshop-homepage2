@@ -25,7 +25,7 @@ function openModal(e: Event) {
       event.time
     }}</span>
     <p class="inline-flex flex-col flex-1 text-start items-start">
-      <span v-if="event.speaker" class="text-3xl font-black">{{
+      <span v-if="event.speaker" class="text-2xl font-black">{{
         event.topic
       }}</span>
       <span v-else class="text-3xl font-black">{{ event.topic }}</span>
@@ -47,19 +47,20 @@ function openModal(e: Event) {
       Workshop Link
     </UButton>
 
-    <UModal v-model="isOpen" prevent-close>
+    <UModal v-model="isOpen">
       <UCard
         :ui="{
           ring: '',
           divide: 'divide-y divide-gray-100 dark:divide-gray-800',
         }"
+        class="p-4"
       >
         <template #header>
           <div class="flex items-center justify-between">
             <h3
               class="text-base font-semibold leading-6 text-gray-900 dark:text-white"
             >
-              Modal
+              {{ event.speaker }}'s Short CV
             </h3>
             <UButton
               color="gray"

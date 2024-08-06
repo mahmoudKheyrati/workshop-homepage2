@@ -42,6 +42,7 @@ import { workshop_program } from "~/data.json";
 
         <template #item="{ item }">
           <p class="lg:ps-[312px] mt-2">
+            <span class="font-bold">Abstract: </span>
             {{ item.content }}
           </p>
         </template>
