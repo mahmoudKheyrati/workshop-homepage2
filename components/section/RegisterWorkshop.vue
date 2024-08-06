@@ -7,9 +7,19 @@ import { register_workshop } from "~/data.json";
       <div class="flex flex-col gap-4">
         <p class="">
           {{ register_workshop.text }}
+          <UButton
+            color="blue"
+            variant="link"
+            class="rounded-full font-bold text-xl leading-9"
+            :to="register_workshop.link"
+            target="_blank"
+            :padded="false"
+          >
+            here.
+          </UButton>
         </p>
         <div class="text-center">
-          <UButton
+          <!-- <UButton
             color="blue"
             variant="solid"
             class="rounded-full font-bold px-10 py-2 text-lg leading-9"
@@ -17,7 +27,7 @@ import { register_workshop } from "~/data.json";
             target="_blank"
           >
             Register Workshop
-          </UButton>
+          </UButton> -->
         </div>
       </div>
     </div>

@@ -10,7 +10,8 @@
     {
       "profile": "/images/Zili_Shao.png",
       "name": "Zili Shao",
-      "description": "Professor at Chinese University of Hong Kong",
+      "rank": "Professor",
+      "description": "Chinese University of Hong Kong",
       "email": "shao@cse.cuhk.edu.hk",
       "linkedin": ""
     },
@@ -205,7 +206,7 @@
     }
   ],
   "register_workshop": {
-    "text": "You can register for the workshop by clicking on the register workshop button.",
+    "text": "You can register for the workshop by clicking on the register workshop button",
     "link": "https://hpcan-homepage.vercel.app/"
   },
   "organizers": [
@@ -220,7 +221,7 @@
       "profile": "/images/hamid_sarbazi_azad.jpg",
       "name": "Hamid Sarbazi-Azad",
       "description": "Professor at Sharif University of Technology",
-      "email": "azad@sharif.edu",
+      "email": "azad@{sharif.edu, ipm.ir} \n hamid@chousn.ac.kr",
       "linkedin": ""
     }
   ],

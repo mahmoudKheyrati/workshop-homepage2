@@ -14,8 +14,15 @@
     />
 
     <div class="overflow-y-auto flex-1 flex flex-col">
-      <p>
-        <b>Workshop Proceedings:</b> A special issue in The Journal of Supercomputing is arranged to  publish papers based on the presented talks in the workshop. 4 aug. 2024
+      <p class="grid grid-cols-6 gap-2 lg:gap-0">
+        <span class="col-span-1 opacity-75 text-sm text-center"
+          >4 aug. 2024</span
+        >
+        <span class="col-span-5">
+          <b>Workshop Proceedings:</b>
+          A special issue in The Journal of Supercomputing is arranged to
+          publish papers based on the presented talks in the workshop.
+        </span>
       </p>
       <UDivider
         size="xs"
@@ -27,8 +34,14 @@
           },
         }"
       />
-      <p>
-        The homepage of the International Online Workshop "Recent Advances in SSD Research and Practice" is launched. 4 aug. 2024
+      <p class="grid grid-cols-6">
+        <span class="col-span-1 opacity-75 text-sm text-center"
+          >4 aug. 2024</span
+        >
+        <span class="col-span-5">
+          The homepage of the International Online Workshop "Recent Advances in
+          SSD Research and Practice" is launched. 4 aug. 2024</span
+        >
       </p>
     </div>
   </div>

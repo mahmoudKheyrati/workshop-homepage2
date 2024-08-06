@@ -10,14 +10,14 @@ import { speakersData } from "~/data.json";
         :key="index"
       >
         <UCard class="h-full">
-          <div class="flex flex-col gap-2 justify-center items-center">
+          <div class="flex flex-col justify-center items-center">
             <NuxtImg
-              class="rounded-full size-32"
+              class="rounded-full size-32 mb-4 object-cover"
               :src="data.profile"
               alt="Avatar"
             />
             <p class="text-xl font-bold">{{ data.name }}</p>
-
+            <p class="text-center opacity-95">{{ data.rank }}</p>
             <p class="text-center opacity-75 mb-2">
               {{ data.description }}
             </p>

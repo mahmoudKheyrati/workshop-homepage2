@@ -28,12 +28,13 @@ import { organizers } from "~/data.json";
                   class="size-5 opacity-75 cursor-pointer"
                 />
               </a>
-              <a v-if="data.email" :href="`mailto:${data.email}`">
+              <!-- <a v-if="data.email" :href="`mailto:${data.email}`">
                 <UIcon
                   name="tabler:mail-filled"
                   class="size-5 opacity-75 cursor-pointer"
                 />
-              </a>
+              </a> -->
+              <p class="text-center">{{ data.email }}</p>
             </span>
           </div>
         </UCard>
