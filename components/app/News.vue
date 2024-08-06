@@ -1,7 +1,7 @@
 <script lang="ts" setup></script>
 <template>
   <div
-    class="max-h-full bg-black/40 rounded-xl flex flex-col gap-4 text-gray-300 dark:text-white/70"
+    class="max-h-full bg-white/80 rounded-xl flex flex-col gap- text-gray-1000 dark:text-black/70 p-4 "
   >
     <h2 class="text-4xl font-bold">Workshop News</h2>
     <UDivider
