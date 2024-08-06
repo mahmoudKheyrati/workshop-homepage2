@@ -8,7 +8,7 @@ import { workshop_program } from "~/data.json";
       :key="index"
       class="flex flex-col gap-8 mb-8"
     >
-      <div class="flex gap-4 items-baseline justify-center">
+      <div class="flex gap-4 items-baseline justify-center no-underline">
         <h2
           class="text-6xl font-bold bg-gradient-to-r from-blue-800 to-gray-600 dark:to-gray-400 inline-block text-transparent bg-clip-text"
         >
@@ -16,37 +16,30 @@ import { workshop_program } from "~/data.json";
         </h2>
         <span class="text-xl">{{ plan.date }}</span>
       </div>
-      <div class="flex flex-col gap-8">
-        <div
-          v-for="(event, index) in plan.timeTable"
-          :key="index"
-          class="flex flex-col lg:flex-row flex-wrap gap-4 lg:gap-2 items-start lg:items-center"
-        >
-          <span class="text-3xl font-bold lg:me-16 opacity-50">{{
-            event.time
-          }}</span>
-          <p class="inline-flex flex-col flex-1">
-            <span v-if="event.speaker" class="text-3xl font-black">{{
-              event.topic
-            }}</span>
-            <span v-else="event.speaker" class="text-3xl font-black">{{
-              event.topic
-            }}</span>
-            <span v-if="event.speaker" class="text-2xl lg:flex-1 opacity-85">
-              speaker:{{ event.speaker }}
-            </span>
-          </p>
+      <UAccordion
+        :items="plan.timeTable"
+        :ui="{
+          wrapper: 'flex flex-col w-full gap-8',
+          item: {
+            padding: 'p-0',
+          },
+        }"
+        multiple
+      >
+        <template #default="{ item }">
           <UButton
-            v-if="event.link"
-            :to="event.link"
-            variant="ghost"
-            size="xl"
-            class="self-baseline text-xl"
+            color="gray"
+            variant="link"
+            :ui="{
+              rounded: 'rounded-none',
+              base: 'flex-shrink-0 !no-underline',
+            }"
+            :padded="false"
           >
-            Workshop Link
+            <AppTimeLine :event="item"> TimeLine </AppTimeLine>
           </UButton>
-        </div>
-      </div>
+        </template>
+      </UAccordion>
     </div>
   </AppSection>
 </template>
