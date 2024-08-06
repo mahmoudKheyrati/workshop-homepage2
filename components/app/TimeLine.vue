@@ -1,0 +1,71 @@
+<script setup lang="ts">
+const props = defineProps<{
+  event: {
+    time: string;
+    speaker: string;
+    topic: string;
+    description: string;
+    link: string;
+    bio: string;
+  };
+}>();
+
+const isOpen = ref(false);
+</script>
+<template>
+  <div
+    class="flex flex-col lg:flex-row flex-wrap gap-4 lg:gap-2 items-start lg:items-center w-full"
+  >
+    <span class="text-3xl font-bold lg:me-16 opacity-50">{{ event.time }}</span>
+    <p class="inline-flex flex-col flex-1 text-start">
+      <span v-if="event.speaker" class="text-3xl font-black">{{
+        event.topic
+      }}</span>
+      <span v-else class="text-3xl font-black">{{ event.topic }}</span>
+      <span
+        v-if="event.speaker"
+        class="text-2xl lg:flex-1 opacity-85"
+        @click="isOpen = true"
+      >
+        speaker:{{ event.speaker }}
+      </span>
+    </p>
+    <UButton
+      v-if="event.link"
+      :to="event.link"
+      variant="ghost"
+      size="xl"
+      class="self-baseline text-xl"
+    >
+      Workshop Link
+    </UButton>
+
+    <UModal v-model="isOpen" prevent-close>
+      <UCard
+        :ui="{
+          ring: '',
+          divide: 'divide-y divide-gray-100 dark:divide-gray-800',
+        }"
+      >
+        <template #header>
+          <div class="flex items-center justify-between">
+            <h3
+              class="text-base font-semibold leading-6 text-gray-900 dark:text-white"
+            >
+              Modal
+            </h3>
+            <UButton
+              color="gray"
+              variant="ghost"
+              icon="i-heroicons-x-mark-20-solid"
+              class="-my-1"
+              @click="isOpen = false"
+            />
+          </div>
+        </template>
+
+        {{ event.bio }}
+      </UCard>
+    </UModal>
+  </div>
+</template>
