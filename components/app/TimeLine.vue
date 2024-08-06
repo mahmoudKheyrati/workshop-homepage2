@@ -11,21 +11,26 @@ const props = defineProps<{
 }>();
 
 const isOpen = ref(false);
+
+function openModal(e: Event) {
+  e.stopPropagation();
+  isOpen.value = true;
+}
 </script>
 <template>
   <div
     class="flex flex-col lg:flex-row flex-wrap gap-4 lg:gap-2 items-start lg:items-center w-full"
   >
     <span class="text-3xl font-bold lg:me-16 opacity-50">{{ event.time }}</span>
-    <p class="inline-flex flex-col flex-1 text-start">
+    <p class="inline-flex flex-col flex-1 text-start items-start">
       <span v-if="event.speaker" class="text-3xl font-black">{{
         event.topic
       }}</span>
       <span v-else class="text-3xl font-black">{{ event.topic }}</span>
       <span
         v-if="event.speaker"
-        class="text-2xl lg:flex-1 opacity-85"
-        @click="isOpen = true"
+        class="text-2xl lg:flex-1 opacity-85 underline underline-offset-4"
+        @click="openModal"
       >
         speaker:{{ event.speaker }}
       </span>

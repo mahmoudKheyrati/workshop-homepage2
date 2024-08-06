@@ -39,6 +39,12 @@ import { workshop_program } from "~/data.json";
             <AppTimeLine :event="item"> TimeLine </AppTimeLine>
           </UButton>
         </template>
+
+        <template #item="{ item }">
+          <p class="lg:ps-[248px]">
+            {{ item.content }}
+          </p>
+        </template>
       </UAccordion>
     </div>
   </AppSection>
