@@ -26,7 +26,7 @@ function openModal(e: Event) {
     }}</span>
     <p class="inline-flex flex-col flex-1 text-start items-start">
 
-      <span v-if="event.speaker" class="text-3xl font-black">{{
+      <span v-if="event.speaker" class="text-3xl">{{
         event.topic
       }}</span>
       <span v-else class="text-3xl font-black">{{ event.topic }}</span>
