@@ -88,30 +88,30 @@
       "linkedin": ""
     },
     {
-      "profile": "/images/Reza-Salkhordeh.png",
+      "profile": "",
       "name": "TBD",
-      "rank": "Researcher",
-      "description": "University Mainz",
-      "email": "rsalkhor@uni-mainz.de",
+      "rank": "",
+      "description": "",
+      "email": "",
       "linkedin": ""
     },
     {
-      "profile": "/images/Reza-Salkhordeh.png",
+      "profile": "",
       "name": "TBD",
-      "rank": "Researcher",
-      "description": "University Mainz",
-      "email": "rsalkhor@uni-mainz.de",
+      "rank": "",
+      "description": "",
+      "email": "",
       "linkedin": ""
     }
   ],
   "workshop_program": [
     {
-      "title": "Day #1",
-      "date": "26 September 2024",
+      "title": "Day 1, Thursday, 26 September 2024",
+      "date": "",
       "timeTable": [
         {
           "time": "10:00 ~ 11:00",
-          "speaker": "Renee MacGyver",
+          "speaker": "Narasimha Reddy",
           "topic": "Impact of SSD GPUDirect Storage mechanism on performance",
           "content": "The exponential growth in data-intensive applications necessitates efficient data transfer and memory management strategies in modern GPU computing. This paper explores the potential of GPUDirect Storage (GDS) as a high-throughput solution for direct data transfers between storage and GPU memory, bypassing CPU involvement and reducing data movement overhead. We study the intricacies of memory management within the GPU memory hierarchy, highlighting the challenges and solutions for optimizing data access patterns. A central focus is placed on intelligent caching and data prefetching mechanisms to predict and pre-load data into appropriate memory tiers, thereby minimizing latency and maximizing computational throughput. By integrating GDS with advanced memory management strategies, we demonstrate significant improvements in performance for various data-intensive applications.",
           "link": "a",
@@ -168,8 +168,8 @@
       ]
     },
     {
-      "title": "Day #2",
-      "date": "27 September 2024",
+      "title": "Day 2, Friday, 27 September 2024",
+      "date": "",
       "timeTable": [
         {
           "time": "10:00 ~ 11:00",
@@ -265,34 +265,16 @@
     },
     {
       "logo": "/images/springer.png",
-      "description": "The journal of supercomputing",
+      "description": "The Journal of Supercomputing",
       "link": "https://link.springer.com/journal/11227"
-    }
-  ],
-  "FAQ": [
-    {
-      "label": "Organizer",
-      "content": "Organizers: Hamid Sarbazi-Azad and Jeong-A Lee"
-    },
-    {
-      "label": "What is a GDG?",
-      "content": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies."
-    },
-    {
-      "label": "What is DevFest?",
-      "content": "DevFests are community-led developer events hosted by Google Developer Groups around the globe."
     }
   ],
   "contacts": [
     "azad@sharif.edu",
-    "azad@ipm.ir",
     "hamid@chosun.ac.kr",
     "jalee@chosun.ac.kr"
   ],
   "footer": {
-    "labName": "High Performance Computing Architectures and Networks Laboratory",
-    "address": "Room 703 Department of Computer Engineering Sharif University of Technology Tehran, Iran",
-    "tel": "+98 21 6616 6672",
-    "logo": "/images/logo.webp"
+    "labName": "(C) HPCAN Lab.Sharif University of Technology."
   }
 }
