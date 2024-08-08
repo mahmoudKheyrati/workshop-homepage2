@@ -21,20 +21,22 @@ function openModal(e: Event) {
   <div
     class="flex flex-col lg:flex-row flex-wrap gap-4 lg:gap-2 items-start lg:items-center w-full"
   >
-    <span class="text-3xl font-bold lg:me-16 opacity-50 w-60">{{
+    <span class="text-2xl font-bold lg:me-16 opacity-70  self-baseline text-blue-950">{{
       event.time
     }}</span>
     <p class="inline-flex flex-col flex-1 text-start items-start">
-      <span v-if="event.speaker" class="text-2xl font-black">{{
+
+      <span v-if="event.speaker" class="text-3xl font-black">{{
         event.topic
       }}</span>
       <span v-else class="text-3xl font-black">{{ event.topic }}</span>
+
       <span
         v-if="event.speaker"
-        class="text-xl lg:flex-1 opacity-85 underline underline-offset-4"
+        class="text-2xl lg:flex-1 opacity-85 underline underline-offset-4"
         @click="openModal"
       >
-        speaker:{{ event.speaker }}
+        {{ event.speaker }}
       </span>
     </p>
     <UButton
@@ -44,7 +46,7 @@ function openModal(e: Event) {
       size="xl"
       class="self-baseline text-xl"
     >
-      Workshop Link
+      Session Link
     </UButton>
 
     <UModal v-model="isOpen">
@@ -60,7 +62,7 @@ function openModal(e: Event) {
             <h3
               class="text-base font-semibold leading-6 text-gray-900 dark:text-white"
             >
-              {{ event.speaker }}'s Short CV
+              {{ event.speaker }}'s Short Bio
             </h3>
             <UButton
               color="gray"

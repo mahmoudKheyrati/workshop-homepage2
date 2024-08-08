@@ -23,7 +23,7 @@ import { footer } from "~/data.json";
           {{ footer.tel }}
         </UButton>
       </div>
-      <NuxtImg class="size-16" :src="footer.logo" />
+<!--      <NuxtImg class="size-16" :src="footer.logo" />-->
     </UContainer>
   </footer>
 </template>

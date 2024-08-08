@@ -8,9 +8,9 @@ import { workshop_program } from "~/data.json";
       :key="index"
       class="flex flex-col gap-8 mb-8"
     >
-      <div class="flex gap-4 items-baseline justify-center no-underline">
+      <div class="flex gap-4 items-baseline  no-underline">
         <h2
-          class="text-6xl font-bold bg-gradient-to-r from-blue-800 to-gray-600 dark:to-gray-400 inline-block text-transparent bg-clip-text"
+          class="text-3xl  bg-gradient-to-r from-blue-800 to-gray-600 dark:to-gray-400 inline-block text-transparent bg-clip-text"
         >
           {{ plan.title }}
         </h2>

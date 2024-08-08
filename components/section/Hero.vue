@@ -13,7 +13,7 @@ function scrollDown() {
 <template>
   <div class="relative w-full h-screen z-0">
     <NuxtImg
-      src="/images/db.jpg"
+      src="/images/e.png"
       class="absolute -z-20 inset-0 object-cover h-full w-full lg:block hidden"
       placeholder
     />
@@ -33,7 +33,7 @@ function scrollDown() {
           class="flex flex-col gap-4 items-start p-4 lg:p-0 text-gray-300 dark:text-white/70"
         >
           <h1
-            class="text-6xl lg:text-4xl font-bold bg-gradient-to-r from-blue-800 to-gray-600 dark:to-gray-400 inline-block text-transparent bg-clip-text"
+            class="text-6xl lg:text-4xl  inline-block  bg-clip-text"
           >
             {{ hero.pitch }}
           </h1>
