@@ -88,7 +88,7 @@
       "linkedin": ""
     },
     {
-      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "profile": "./images/user.png",
       "name": "TBD",
       "rank": "",
       "description": "",
@@ -96,7 +96,7 @@
       "linkedin": ""
     },
     {
-      "profile": "https://avatars.githubusercontent.com/u/739984?v=4",
+      "profile": "./images/user.png",
       "name": "TBD",
       "rank": "",
       "description": "",
@@ -110,7 +110,7 @@
       "date": "",
       "timeTable": [
         {
-          "time": "10:00 ~ 11:00",
+          "time": "14:00 ~ 15:00",
           "speaker": "Narasimha Reddy",
           "topic": "Impact of SSD GPUDirect Storage mechanism on performance",
           "content": "The exponential growth in data-intensive applications necessitates efficient data transfer and memory management strategies in modern GPU computing. This paper explores the potential of GPUDirect Storage (GDS) as a high-throughput solution for direct data transfers between storage and GPU memory, bypassing CPU involvement and reducing data movement overhead. We study the intricacies of memory management within the GPU memory hierarchy, highlighting the challenges and solutions for optimizing data access patterns. A central focus is placed on intelligent caching and data prefetching mechanisms to predict and pre-load data into appropriate memory tiers, thereby minimizing latency and maximizing computational throughput. By integrating GDS with advanced memory management strategies, we demonstrate significant improvements in performance for various data-intensive applications.",
@@ -118,7 +118,7 @@
           "bio": ""
         },
         {
-          "time": "11:00 ~ 12:00",
+          "time": "15:00 ~ 16:00",
           "speaker": "Zili Shao",
           "topic": "Rethinking Software Design with Modern Computational Storage Device",
           "content": "Storage optimization remains a pivotal concern in computer systems. In this talk, I will first summarize our work in optimizing storage systems for embedded and big data applications. Then, I will present our recent work in optimizing \uD835\uDC35+-tree by leverages emerging computational storage drives with built-in transparent compression.",
@@ -126,7 +126,7 @@
           "bio": ""
         },
         {
-          "time": "12:00 ~ 13:00",
+          "time": "16:00 ~ 17:00",
           "speaker": "Patrick Lee",
           "topic": "The Design and Implementation of a High-Performance Log-Structured RAID System for ZNS SSDs",
           "content": "In this talk, I will make a case for showing how to achieve efficient reliable storage for the emerging ZNS SSDs. ZNS defines a new abstraction for host software to flexibly manage storage in flash-based SSDs as append-only zones.  It also provides a Zone Append primitive to further boost the write performance of ZNS SSDs by exploiting intra-zone parallelism. However, making Zone Append effective for RAID storage across multiple ZNS SSDs is non-trivial since Zone Append offloads address management to ZNS SSDs and requires hosts to dedicatedly manage RAID stripes across multiple drives. We propose ZapRAID, a high-performance log-structured RAID system for ZNS SSDs by carefully exploiting Zone Append to achieve high write parallelism and lightweight stripe management. ZapRAID adopts a group-based data layout with a coarse-grained ordering across multiple groups of stripes, such that it can use small-size metadata for stripe management on a per-group basis under Zone Append. It further adopts hybrid data management to simultaneously achieve intra-zone and inter-zone parallelism through a careful combination of both Zone Append and Zone Write primitives. Our evaluation shows that ZapRAID achieves high performance in various operations.  Finally, I will also discuss future research directions of applying ZNS SSDs to large-scale distributed storage. ",
@@ -134,7 +134,7 @@
           "bio": "Patrick P. C. Lee received the Ph.D. degree in Computer Science from\nColumbia University in 2008. He is now a Professor of the Department of\nComputer Science and Engineering at the Chinese University of Hong Kong.  He heads the Applied Distributed Systems Lab and is working very closely with a group of graduate students on different projects in large-scale software systems.  His research interests are in various applied/systems topics on improving the dependability of large-scale software systems, including storage systems, distributed systems and networks, and cloud computing.  He now serves as an Associate Editor in IEEE/ACM Transactions on Networking and ACM Transactions on Storage."
         },
         {
-          "time": "13:00 ~ 14:00",
+          "time": "17:00 ~ 18:00",
           "speaker": "",
           "topic": "Break",
           "content": "",
@@ -142,7 +142,7 @@
           "bio": ""
         },
         {
-          "time": "14:00 ~ 15:00",
+          "time": "18:00 ~ 19:00",
           "speaker": "Speaker #4",
           "topic": "Talk #4",
           "content": "",
@@ -150,7 +150,7 @@
           "bio": ""
         },
         {
-          "time": "15:00 ~ 16:00",
+          "time": "19:00 ~ 20:00",
           "speaker": "Speaker #5",
           "topic": "Talk #5",
           "content": "",
@@ -158,7 +158,7 @@
           "bio": ""
         },
         {
-          "time": "16:00 ~ 17:00",
+          "time": "20:00 ~ 21:00",
           "speaker": "Speaker #6",
           "topic": "Talk #6",
           "content": "",
@@ -172,7 +172,7 @@
       "date": "",
       "timeTable": [
         {
-          "time": "10:00 ~ 11:00",
+          "time": "14:00 ~ 15:00",
           "speaker": "Speaker #7",
           "topic": "Talk #7",
           "content": "",
@@ -180,7 +180,7 @@
           "bio": ""
         },
         {
-          "time": "11:00 ~ 12:00",
+          "time": "15:00 ~ 16:00",
           "speaker": "Speaker #8",
           "topic": "Talk #8",
           "content": "",
@@ -188,7 +188,7 @@
           "bio": ""
         },
         {
-          "time": "12:00 ~ 13:00",
+          "time": "16:00 ~ 17:00",
           "speaker": "Talk #9",
           "topic": "Talk #9",
           "content": "",
@@ -196,7 +196,7 @@
           "bio": ""
         },
         {
-          "time": "13:00 ~ 14:00",
+          "time": "17:00 ~ 18:00",
           "speaker": "",
           "topic": "Break",
           "content": "",
@@ -204,7 +204,7 @@
           "bio": ""
         },
         {
-          "time": "14:00 ~ 15:00",
+          "time": "18:00 ~ 19:00",
           "speaker": "Speaker #10",
           "topic": "Talk #10",
           "content": "",
@@ -212,7 +212,7 @@
           "bio": ""
         },
         {
-          "time": "15:00 ~ 16:00",
+          "time": "19:00 ~ 20:00",
           "speaker": "Speaker #11",
           "topic": "Talk #11",
           "content": "",
@@ -220,7 +220,7 @@
           "bio": ""
         },
         {
-          "time": "16:00 ~ 17:00",
+          "time": "20:00 ~ 21:00",
           "speaker": "Speaker #12",
           "topic": "Topic #12",
           "content": "",
