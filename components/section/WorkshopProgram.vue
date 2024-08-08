@@ -43,6 +43,8 @@ import { workshop_program } from "~/data.json";
         <template #item="{ item }">
           <p class="lg:ps-[200px] mt-2">
             <span v-if="item.speaker!=''" class="font-bold">Abstract: </span>
+            <span v-else class="">Have a tea or coffee and then come back</span>
+
             {{ item.content }}
           </p>
         </template>
