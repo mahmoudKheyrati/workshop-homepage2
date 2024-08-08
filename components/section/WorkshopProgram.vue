@@ -47,6 +47,8 @@ import { workshop_program } from "~/data.json";
           </p>
         </template>
       </UAccordion>
+      <div v-if="index==0" class="space-y-6"></div>
     </div>
+
   </AppSection>
 </template>

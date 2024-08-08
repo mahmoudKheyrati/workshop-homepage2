@@ -3,6 +3,6 @@ import { description } from "~/data.json";
 </script>
 <template>
   <AppSection title="The Workshop">
-    <p class="" v-html="description"/>
+    <p class="lg:text-xl" v-html="description"/>
   </AppSection>
 </template>

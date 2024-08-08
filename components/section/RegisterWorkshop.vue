@@ -5,12 +5,12 @@ import { register_workshop } from "~/data.json";
   <AppSection title="Workshop Registration">
     <div class="lg:col-span-2">
       <div class="flex flex-col gap-4">
-        <p class="">
+        <p class="lg:text-2xl">
           {{ register_workshop.text }}
           <UButton
             color="blue"
             variant="link"
-            class="rounded-full font-bold text-xl leading-9"
+            class="rounded-full font-bold text-xl leading-9 lg:text-2xl"
             :to="register_workshop.link"
             target="_blank"
             :padded="false"
