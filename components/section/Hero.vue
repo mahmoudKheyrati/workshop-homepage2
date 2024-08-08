@@ -14,14 +14,14 @@ function scrollDown() {
   <div class="relative w-full h-screen z-0">
     <NuxtImg
       src="/images/e.png"
-      class="absolute -z-20 inset-0 object-cover h-full w-full lg:block hidden"
+      class="absolute -z-20 inset-0 object-cover h-full w-full lg:block "
       placeholder
     />
-    <NuxtImg
-      src="/images/hero-mobile.webp"
-      class="absolute -z-20 inset-0 object-cover h-full w-full block lg:hidden"
-      placeholder
-    />
+<!--    <NuxtImg-->
+<!--      src="/images/hero-mobile.webp"-->
+<!--      class="absolute -z-20 inset-0 object-cover h-full w-full block lg:hidden"-->
+<!--      placeholder-->
+<!--    />-->
     <div
       class="absolute -z-10 bg-gradient-to-r from-black to-black/20 inset-0"
     />
