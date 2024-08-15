@@ -111,9 +111,9 @@
       "timeTable": [
         {
           "time": "14:00 ~ 14:50",
-          "speaker": "Narasimha Reddy",
-          "topic": "Impact of SSD GPUDirect Storage mechanism on performance",
-          "content": "The exponential growth in data-intensive applications necessitates efficient data transfer and memory management strategies in modern GPU computing. This paper explores the potential of GPUDirect Storage (GDS) as a high-throughput solution for direct data transfers between storage and GPU memory, bypassing CPU involvement and reducing data movement overhead. We study the intricacies of memory management within the GPU memory hierarchy, highlighting the challenges and solutions for optimizing data access patterns. A central focus is placed on intelligent caching and data prefetching mechanisms to predict and pre-load data into appropriate memory tiers, thereby minimizing latency and maximizing computational throughput. By integrating GDS with advanced memory management strategies, we demonstrate significant improvements in performance for various data-intensive applications.",
+          "speaker": "Speaker #1",
+          "topic": "Talk #1",
+          "content": "",
           "link": "a",
           "bio": ""
         },
@@ -159,11 +159,11 @@
         },
         {
           "time": "18:40 ~ 19:30",
-          "speaker": "Speaker #6",
-          "topic": "Talk #6",
-          "content": "",
+          "speaker": "Narasimha Reddy",
+          "topic": "Impact of SSD GPUDirect Storage mechanism on performance",
+          "content": "The exponential growth in data-intensive applications necessitates efficient data transfer and memory management strategies in modern GPU computing. This paper explores the potential of GPUDirect Storage (GDS) as a high-throughput solution for direct data transfers between storage and GPU memory, bypassing CPU involvement and reducing data movement overhead. We study the intricacies of memory management within the GPU memory hierarchy, highlighting the challenges and solutions for optimizing data access patterns. A central focus is placed on intelligent caching and data prefetching mechanisms to predict and pre-load data into appropriate memory tiers, thereby minimizing latency and maximizing computational throughput. By integrating GDS with advanced memory management strategies, we demonstrate significant improvements in performance for various data-intensive applications.",
           "link": "a",
-          "bio": ""
+          "bio": "Narasimha Reddy received a B.Tech. degree in Electronics and Electrical Communications Engineering from the Indian Institute of Technology, Kharagpur, India in August 1985, and M.S. and Ph.D. degrees in Computer Engineering from the University of Illinois at Urbana-Champaign in May 1987 and August 1990, respectively\n\nReddy’s research interests are in Computer Networks, Storage Systems, Multimedia Systems, and Computer Architecture. During 1990-1995, he was a Research Staff Member at IBM Almaden Research Center in San Jose where he worked on projects related to disk arrays, multiprocessor communication, hierarchical storage systems and video servers.\n\nReddy holds five patents and and was awarded a technical accomplishment award while at IBM. He received an NSF Career Award in 1996. He was a Faculty Fellow of the College of Engineering at Texas A&M during 1999-2000. His honors include an Outstanding Professor award by the IEEE student branch at Texas A&M during 1997-1998, an Outstanding Faculty award by the Department of Electrical and Computer Engineering during 2003-2004, a Distinguished Achievement award for teaching from the Former Students Association of Texas A&M University, and a citation “for one of the most influential papers from the 1st ACM Multimedia Conference”.\n\nReddy is a Fellow of IEEE Computer Society and is a member of ACM."
         }
       ]
     },
