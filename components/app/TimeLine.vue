@@ -16,6 +16,11 @@ function openModal(e: Event) {
   e.stopPropagation();
   isOpen.value = true;
 }
+
+function replaceWithBr(s: string) {
+  return s.replace(/\n/g, "<br />")
+}
+
 </script>
 <template>
   <div
@@ -74,7 +79,8 @@ function openModal(e: Event) {
           </div>
         </template>
 
-        {{ event.bio }}
+
+        <p v-html="replaceWithBr(event.bio)"></p>
       </UCard>
     </UModal>
   </div>
