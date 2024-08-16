@@ -80,7 +80,7 @@ function replaceWithBr(s: string) {
         </template>
 
 
-        <p v-html="replaceWithBr(event.bio)"></p>
+        <p class="text-justify" v-html="replaceWithBr(event.bio)"></p>
       </UCard>
     </UModal>
   </div>
