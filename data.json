@@ -25,7 +25,7 @@
     },
     {
       "profile": "/images/ALNarasimha_Reddy.png",
-      "name": "A. L. Narasimha Reddy",
+      "name": "Narasimha Reddy",
       "rank": "Professor",
       "description": "Texas A&M University",
       "email": "reddy@tamu.edu",
@@ -112,7 +112,7 @@
         {
           "time": "14:00 ~ 14:50",
           "speaker": "Li-Pin Chang",
-          "topic": "Flash error management in modern SSDs: from bits to layers",
+          "topic": "Flash Error Management in Modern SSDs: from Bits to Layers",
           "content": "As memory technology matures, reliability becomes a critical concern, especially in the context of modern flash memory. While marching towards higher cell-bit density and advanced 3D architectures, flash memory faces major challenges with various types of errors. Addressing these errors efficiently and effectively is essential to maintaining data integrity. In this talk, I will explore error handling techniques in modern flash memory, focusing on different granularities of data such as bits, layers, and architecture-specific error domains. I will discuss efficient error correction using Low-Density Parity-Check (LDPC) codes, emphasizing strategies like optimal reference voltage placement, bit labeling, and multilevel soft sensing. Additionally, I will investigate how process variation in 3D flash architectures can be leveraged to accelerate LDPC decoding. Finally, I will cover parity protection mechanisms designed to protect against large extents of memory defects that go beyond the bit level.",
           "link": "a",
           "bio": "Li-Pin Chang is a professor at Department of Computer Science, National Yang Ming Chiao Tung University, Taiwan. In addition to flash management algorithms, he is also working on memory management for smart phones, flash-based storage for energy-harvesting IoT devices, and data retrieval systems for persistent memory. He has been serving on major conferences in his field for years, including EMSOFT in the embedded systems week series, and he is also an associate editor of ACM Transactions on Embedded Computing Systems (TECS)."
@@ -160,7 +160,7 @@
         {
           "time": "18:40 ~ 19:30",
           "speaker": "Narasimha Reddy",
-          "topic": "Impact of SSD GPUDirect Storage mechanism on performance",
+          "topic": "Impact of SSD GPUDirect Storage Mechanism on Performance",
           "content": "The exponential growth in data-intensive applications necessitates efficient data transfer and memory management strategies in modern GPU computing. This paper explores the potential of GPUDirect Storage (GDS) as a high-throughput solution for direct data transfers between storage and GPU memory, bypassing CPU involvement and reducing data movement overhead. We study the intricacies of memory management within the GPU memory hierarchy, highlighting the challenges and solutions for optimizing data access patterns. A central focus is placed on intelligent caching and data prefetching mechanisms to predict and pre-load data into appropriate memory tiers, thereby minimizing latency and maximizing computational throughput. By integrating GDS with advanced memory management strategies, we demonstrate significant improvements in performance for various data-intensive applications.",
           "link": "a",
           "bio": "Narasimha Reddy received a B.Tech. degree in Electronics and Electrical Communications Engineering from the Indian Institute of Technology, Kharagpur, India in August 1985, and M.S. and Ph.D. degrees in Computer Engineering from the University of Illinois at Urbana-Champaign in May 1987 and August 1990, respectively\n\nReddy’s research interests are in Computer Networks, Storage Systems, Multimedia Systems, and Computer Architecture. During 1990-1995, he was a Research Staff Member at IBM Almaden Research Center in San Jose where he worked on projects related to disk arrays, multiprocessor communication, hierarchical storage systems and video servers.\n\nReddy holds five patents and and was awarded a technical accomplishment award while at IBM. He received an NSF Career Award in 1996. He was a Faculty Fellow of the College of Engineering at Texas A&M during 1999-2000. His honors include an Outstanding Professor award by the IEEE student branch at Texas A&M during 1997-1998, an Outstanding Faculty award by the Department of Electrical and Computer Engineering during 2003-2004, a Distinguished Achievement award for teaching from the Former Students Association of Texas A&M University, and a citation “for one of the most influential papers from the 1st ACM Multimedia Conference”.\n\nReddy is a Fellow of IEEE Computer Society and is a member of ACM."
@@ -206,7 +206,7 @@
         {
           "time": "17:00 ~ 17:50",
           "speaker": "Reza Salkhordeh",
-          "topic": "Challenges and opportunities of host-side FTL in ZNS devices",
+          "topic": "Challenges and Opportunities of Host-Side FTL in ZNS Devices",
           "content": "ZNS SSDs are emerging storage devices that allow the host to fully control the data placement and manage the SSD’s internal state. They reduce the cost of manufacturing the SSDs and allow for OS- and application-level optimizations. However, moving the FTL functionality to the OS is challenging and poses many obstacles. This talk will first present such challenges and the approaches the academia takes to mitigate them. Then the open problems that can be the target of future research will be discussed. Additionally, the areas in which ZNS SSDs can be beneficial, and they are expected to provide improvements will be presented. Overall, this talk familiarizes the audience with the state-of-the-art research on ZNS SSDs and provides a view of possible future research topics.",
           "link": "a",
           "bio": "I received the B.Sc. degree in computer engineering from Ferdowsi University of Mashhad in 2011, and M.Sc. degree in computer engineering from Sharif University of Technology (SUT) in 2013. I received the Ph.D. degree from Sharif University of Technology (SUT) in 2018 under supervision of Prof. Hossein Asadi at Data Storage, Networks, and Processing (DSN) lab. I am currently a postdoctoral researcher in Efficient Computing and Storage Group at Johannes Gutenberg-University Mainz under supervision of Prof. André Brinkmann. My research interests include operating systems, solid-state drives, and data storage systems."
