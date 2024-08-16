@@ -58,7 +58,7 @@
     {
       "profile": "/images/John_Kim.png",
       "name": "John Kim",
-      "rank": "Associate Professor",
+      "rank": "Professor",
       "description": "Korea Advanced Institute of Science and Technology (KAIST)",
       "email": "jjk12@kaist.edu",
       "linkedin": ""
@@ -174,10 +174,10 @@
         {
           "time": "14:00 ~ 14:50",
           "speaker": "Speaker #7",
-          "topic": "Talk #7",
-          "content": "",
+          "topic": "Rethinking SSD Microarchitecture through Communication-Centric Architecture",
+          "content": "The cost and scalability of future systems are often limited by data movement.  As a result, a cost-effective approach to interconnecting components is necessary to enable a scalable, high-performance system.  This talk will focus on rethinking SSD microarchitecture by focusing on the challenges of communication within an SSD system.   In particular, I will present NetworkSSD where interconnection networks can be used to replace traditional flash bus to enable more efficient connectivity between the flash modules. In addition, I will discuss how DecoupledSSD can leverage interconnection networks within the SSD controller to provide efficient communication between on-chip components.",
           "link": "a",
-          "bio": ""
+          "bio": "John Kim is currently a full professor in the School of Electrical Engineering at KAIST (Korea Advanced Institute of Science and Technology) in Daejeon, Korea. John Kim received his Ph.D. from Stanford University and B.S/M.Eng from Cornell University. His research interests include computer architecture, interconnection networks, security, and mobile systems.  He has received a Google Faculty Research Award,  Microsoft-Asia New Faculty Fellowship, and is listed in the Hall of Fame for ISCA, MICRO, and HPCA. He has also worked on the design of several microprocessors at Intel and at Motorola."
         },
         {
           "time": "14:50 ~ 15:40",
