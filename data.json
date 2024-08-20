@@ -88,11 +88,11 @@
       "linkedin": ""
     },
     {
-      "profile": "/images/u.png",
-      "name": "TBD",
-      "rank": "",
-      "description": "",
-      "email": "",
+      "profile": "/images/arash_tavakkol.jpg",
+      "name": "Arash Tavakkol",
+      "rank": "Principal Software Engineer",
+      "description": "ApplyBoard Inc.",
+      "email": "arash82ir@gmail.com",
       "linkedin": ""
     },
     {
@@ -143,11 +143,11 @@
         },
         {
           "time": "17:00 ~ 17:50",
-          "speaker": "Speaker #4",
-          "topic": "Talk #4",
-          "content": "",
+          "speaker": "Arash Tavakkol",
+          "topic": "Scaling the Summit: Navigating Fairness, Communication, and Flash Chip Access Conflicts in Modern SSD Architectures",
+          "content": "In this session, we'll explore the scalability issues in Solid-State Drives (SSDs), focusing on the challenges posed by the existing SSD micro-architecture. First, we'll briefly touch upon the fairness issue in modern multi-queue SSDs (MQ-SSDs). While new protocols like NVMe have improved performance by providing direct access to application-level I/O request queues, they've inadvertently introduced fairness problems among concurrently executing applications in modern highly-virtualized environments. We'll introduce FLIN (Flash-Level INterference-aware scheduler), a lightweight scheduling mechanism designed to restore fairness in MQ-SSDs without compromising performance. Next, we'll examine network-based SSD communication protocols, which replace the traditional multi-channel bus architecture with an interconnection network, enhancing scalability and performance while reducing signal integrity issues. Finally, we'll present a new mechanism designed to resolve path conflicts in network-based SSDs by employing path reservation techniques, and adaptive routing algorithms, further improving parallelism and energy efficiency with minimal overhead.",
           "link": "a",
-          "bio": ""
+          "bio": "Arash Tavakkolis a Principal Software Engineer at ApplyBoard Inc., where he specializes in applying modern data processing approaches based on AI/ML techniques to educational technology. He holds a Ph.D. in Computer Engineering from Sharif University of Technology and has completed a postdoctoral research fellowship at ETH Zurich. Arash has over 14 years of experience in analyzing and designing SSD scalability issues for modern enterprise applications, hyperscale data centers, and highly virtualized environments. He developed MQSim, one of the well-known SSD simulators, and has published his SSD research in venues like ISCA, FAST, SIGMETRICS, and PACT. His research interests lie in storage system designs, advanced data processing technologies, and memory subsystems. Recently, his work has concentrated on leveraging his expertise in large-scale data processing platforms to enhance the efficacy of modern big data platforms used in the financial, energy, healthcare, and education sectors. His contributions in this field aim to bridge the gap between cutting-edge research and practical real-world applications."
         },
         {
           "time": "17:50 ~ 18:40",
