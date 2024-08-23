@@ -72,11 +72,11 @@
       "linkedin": ""
     },
     {
-      "profile": "/images/Jennie_Hill.png",
-      "name": "Jennie Hill",
+      "profile": "/images/owens_walker.jpg",
+      "name": "Owens Walker",
       "rank": "Assistant Professor",
       "description": "US Naval Academy",
-      "email": "jehill@usna.edu",
+      "email": "owalker@usna.edu",
       "linkedin": ""
     },
     {
@@ -213,11 +213,11 @@
         },
         {
           "time": "17:50 ~ 18:40",
-          "speaker": "Speaker #11",
-          "topic": "Talk #11",
-          "content": "",
+          "speaker": "Owens Walker",
+          "topic": "Classification of Solid State Drives Using Power-based Side-channel Analysis",
+          "content": "Solid state drive (SSD) technologies continue to evolve. Phase change memory, as seen in Intel and Micron’s 3D XPoint, is a good example of an advancement in the field and was commercially available in Intel’s Optane-branded memory from 2017 to 2022. Like their NAND flash SSD counterparts, the firmware on an Optane SSD has the potential to make it difficult for the user to validate whether operations (e.g., read and write) are being performed as expected on the drive itself. Machine learning-based classification has proven to be a useful tool in validating embedded firmware operations and uncovering unanticipated behavior.  In this work, we use power-based side-channel analysis to classify among four solid state drives from four different manufacturers employing phase change or 3D NAND memory technologies. We present sample waveforms in both the time domain and the frequency domain for these novel memory technologies and then use these to develop classifiers capable of classifying novel memory samples by operation (read vs. write) as well as by drive model and by drive technology. We achieve classification rates of 96.1% by operation, 98.3% by drive model, and 100% by technology employed. In addition, we demonstrate that the power-based side channel can be used to identify and investigate drive performance issues that impact read and write speeds. ",
           "link": "a",
-          "bio": ""
+          "bio": "Owens Walker received the B.S. degree in electrical engineering from Cornell University in 1987, and the M.S. and Ph.D. degrees in electrical engineering from the Naval Postgraduate School, Monterey, CA, USA, in 1995 and 2009, respectively. He is currently an Associate Professor with the Electrical and Computer Engineering Department, United States Naval Academy. He has been instrumental in the development of networking and cybersecurity course offerings at the Naval Academy, and he leads the Computer Engineering and Cyber Security Research Team. His research interests include wireless networking, wireless security, computer security, as well as light-based communications. He is a senior member of IEEE and a member of the Eta Kappa Nu."
         },
         {
           "time": "18:40 ~ 19:30",
