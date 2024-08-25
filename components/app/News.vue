@@ -33,13 +33,32 @@
           },
         }"
       />
+   <div class="overflow-y-auto flex-1 flex flex-col">
+        <p class="grid grid-cols-6 gap-2 lg:gap-0">
+          <span class="col-span-1 opacity-75 text-sm text-center text-blue-950"
+            >25 Aug. 2024</span
+          >
+          <span class="col-span-5">
+            Workshop programs is finalized.
+          </span>
+        </p>
+        <UDivider
+          size="xs"
+          type="dotted"
+          class="py-2"
+          :ui="{
+            border: {
+              base: 'flex border-gray-600 dark:border-gray-800',
+            },
+          }"
+        />
       <p class="grid grid-cols-6">
         <span class="col-span-1 opacity-75 text-sm text-center text-blue-950"
           >4 Aug. 2024</span
         >
         <span class="col-span-5">
           The homepage of the International Online Workshop "Recent Advances in
-          SSD Research and Practice" is launched. 4 aug. 2024</span
+          SSD Research and Practice" is launched.</span
         >
       </p>
     </div>
