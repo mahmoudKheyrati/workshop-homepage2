@@ -14,7 +14,7 @@ import { technically_supported_by } from "~/data.json";
             class="p-4 rounded-lg h-full hover:-translate-y-1 transition hover:dark:bg-gray-900 hover:bg-neutral-200"
           >
             <div class="flex flex-col gap-2 justify-center items-center w-full">
-              <NuxtImg
+              <img
                 class="rounded-lg size-48 object-contain"
                 :src="data.logo"
                 alt="Avatar"

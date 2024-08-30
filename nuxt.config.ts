@@ -9,6 +9,11 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-
+  nitro: {
+    prerender: {
+      autoSubfolderIndex: false
+    }
+  },
+  ssr: false,
   modules: ["@nuxt/ui", "@nuxtjs/tailwindcss", "@nuxt/image", "@nuxt/icon"],
 });

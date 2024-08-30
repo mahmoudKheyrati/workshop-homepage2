@@ -15,6 +15,6 @@ npm run dev
 ```sh
 npm install
 npm run generate
-
+npx nuxt build --preset github_pages
 # put .output/public on a static hosting service
 ```

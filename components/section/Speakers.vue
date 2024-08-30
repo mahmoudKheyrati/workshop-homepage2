@@ -11,7 +11,7 @@ import { speakersData } from "~/data.json";
       >
         <UCard class="h-full">
           <div class="flex flex-col justify-center items-center">
-            <NuxtImg
+            <img
               class="rounded-full size-32 mb-4 object-cover"
               :src="data.profile"
               alt="Avatar"
