@@ -12,7 +12,7 @@ function scrollDown() {
 </script>
 <template>
   <div class="relative w-full h-screen z-0">
-    <img
+    <NuxtImg
       src="/images/e.png"
       class="absolute -z-20 inset-0 object-cover h-full w-full lg:block "
       placeholder
