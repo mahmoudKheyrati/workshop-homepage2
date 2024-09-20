@@ -31,7 +31,7 @@ function replaceWithBr(s: string) {
     }}</span>
     <p class="inline-flex flex-col flex-1 text-start items-start">
 
-      <span v-if="event.speaker" class="text-2xl">{{
+      <span v-if="event.speaker || event.topic=='Opening' || event.topic=='Closing'" class="text-2xl">{{
         event.topic
       }}</span>
       <span v-else class="text-3xl font-black">{{ event.topic }}</span>
