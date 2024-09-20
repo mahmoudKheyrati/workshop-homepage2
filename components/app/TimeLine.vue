@@ -50,6 +50,7 @@ function replaceWithBr(s: string) {
       variant="ghost"
       size="xl"
       class="self-baseline text-xl"
+      target="_blank"
     >
       Session Link
     </UButton>
