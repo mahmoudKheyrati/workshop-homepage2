@@ -11,10 +11,9 @@ import { workshop_program } from "~/data.json";
       <div class="flex gap-4 items-baseline  no-underline">
         <h2
           class="text-3xl  bg-gradient-to-r from-blue-800 to-gray-600 dark:to-gray-400 inline-block text-transparent bg-clip-text"
-        >
-          {{ plan.title }}
-        </h2>
-        <span class="text-xl">{{ plan.date }}</span>
+          v-html="plan.title"
+        ></h2>
+<!--        <span class="text-xl">{{ plan.date }}</span>-->
       </div>
       <UAccordion
         :items="plan.timeTable"
