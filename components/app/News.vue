@@ -17,10 +17,10 @@
     <div class="overflow-y-auto flex-1 flex flex-col">
       <p class="grid grid-cols-6 gap-2 lg:gap-0 pt-3">
         <span class="col-span-1 opacity-75 text-sm text-center text-blue-950"
-        >9 Sep. 2024</span
+        >30 Sep. 2024</span
         >
         <span class="col-span-5">
-          The video and slide files of all sessions/talks are now uploaded and available.
+          The video and slide files of all talks are now uploaded and available.
         </span>
       </p>
       <UDivider
@@ -33,72 +33,72 @@
           },
         }"
       />
-      <div class="overflow-y-auto flex-1 flex flex-col">
-        <p class="grid grid-cols-6 gap-2 lg:gap-0 pt-3">
+
+      <p class="grid grid-cols-6 gap-2 lg:gap-0 pt-3">
         <span class="col-span-1 opacity-75 text-sm text-center text-blue-950"
         >9 Sep. 2024</span
         >
-          <span class="col-span-5">
+        <span class="col-span-5">
           Registration is open.
         </span>
-        </p>
-        <UDivider
-          size="xs"
-          type="dotted"
-          class="py-2"
-          :ui="{
+      </p>
+      <UDivider
+        size="xs"
+        type="dotted"
+        class="py-2"
+        :ui="{
           border: {
             base: 'flex border-gray-600 dark:border-gray-800',
           },
         }"
-        />
+      />
 
-        <p class="grid grid-cols-6 gap-2 lg:gap-0 pt-3">
+      <p class="grid grid-cols-6 gap-2 lg:gap-0 pt-3">
         <span class="col-span-1 opacity-75 text-sm text-center text-blue-950"
         >25 Aug. 2024</span
         >
-          <span class="col-span-5">
+        <span class="col-span-5">
           Workshop program finalized.
         </span>
-        </p>
-        <UDivider
-          size="xs"
-          type="dotted"
-          class="py-2"
-          :ui="{
+      </p>
+      <UDivider
+        size="xs"
+        type="dotted"
+        class="py-2"
+        :ui="{
           border: {
             base: 'flex border-gray-600 dark:border-gray-800',
           },
         }"
-        />
-        <p class="grid grid-cols-6 gap-2 lg:gap-0">
+      />
+      <p class="grid grid-cols-6 gap-2 lg:gap-0">
         <span class="col-span-1 opacity-75 text-sm text-center text-blue-950"
-        >4 Aug. 2024</span
+          >4 Aug. 2024</span
         >
-          <span class="col-span-5">
+        <span class="col-span-5">
           A special issue in The Journal of Supercomputing is arranged to
           publish papers based on the presented talks in the workshop.
         </span>
-        </p>
-        <UDivider
-          size="xs"
-          type="dotted"
-          class="py-2"
-          :ui="{
+      </p>
+      <UDivider
+        size="xs"
+        type="dotted"
+        class="py-2"
+        :ui="{
           border: {
             base: 'flex border-gray-600 dark:border-gray-800',
           },
         }"
-        />
-        <p class="grid grid-cols-6">
+      />
+      <p class="grid grid-cols-6">
         <span class="col-span-1 opacity-75 text-sm text-center text-blue-950"
-        >4 Aug. 2024</span
+          >4 Aug. 2024</span
         >
-          <span class="col-span-5">
+        <span class="col-span-5">
           The homepage of the International Online Workshop "Recent Advances in
           SSD Research and Practice" is launched.</span
-          >
-        </p>
-      </div>
+        >
+      </p>
     </div>
+  </div>
 </template>
