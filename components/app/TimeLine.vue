@@ -45,6 +45,16 @@ function replaceWithBr(s: string) {
       </span>
     </p>
     <UButton
+      v-if="event.slide_link"
+      :to="event.slide_link"
+      variant="ghost"
+      size="xl"
+      class="self-baseline text-xl"
+      target="_blank"
+    >
+      Slide Link
+    </UButton>
+    <UButton
       v-if="event.link"
       :to="event.link"
       variant="ghost"
@@ -54,6 +64,7 @@ function replaceWithBr(s: string) {
     >
       Recording Link
     </UButton>
+
 
     <UModal v-model="isOpen">
       <UCard
