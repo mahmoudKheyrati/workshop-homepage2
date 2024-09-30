@@ -106,7 +106,7 @@
             "speaker": "",
             "topic": "Opening",
             "content": "",
-            "link": "https://bbb.ssdworkshop.com/rooms/yq6-kw4-iuo-qmo/public_recordings",
+            "link": "https://drive.google.com/file/d/1Xhyy4p-37pAFUK_XsYioegp3l849cA8l/view?usp=sharing",
             "bio": ""
           },
         {
@@ -114,7 +114,7 @@
           "speaker": "Li-Pin Chang",
           "topic": "Flash Error Management in Modern SSDs: from Bits to Layers",
           "content": "As memory technology matures, reliability becomes a critical concern, especially in the context of modern flash memory. While marching towards higher cell-bit density and advanced 3D architectures, flash memory faces major challenges with various types of errors. Addressing these errors efficiently and effectively is essential to maintaining data integrity. In this talk, I will explore error handling techniques in modern flash memory, focusing on different granularities of data such as bits, layers, and architecture-specific error domains. I will discuss efficient error correction using Low-Density Parity-Check (LDPC) codes, emphasizing strategies like optimal reference voltage placement, bit labeling, and multilevel soft sensing. Additionally, I will investigate how process variation in 3D flash architectures can be leveraged to accelerate LDPC decoding. Finally, I will cover parity protection mechanisms designed to protect against large extents of memory defects that go beyond the bit level.",
-          "link": "https://bbb.ssdworkshop.com/rooms/yq6-kw4-iuo-qmo/public_recordings",
+          "link": "https://drive.google.com/file/d/1fLmkLtY_yJbBU-WNEhWwuZchyaoLVuwO/view?usp=sharing",
           "bio": "Li-Pin Chang is a professor at Department of Computer Science, National Yang Ming Chiao Tung University, Taiwan. In addition to flash management algorithms, he is also working on memory management for smart phones, flash-based storage for energy-harvesting IoT devices, and data retrieval systems for persistent memory. He has been serving on major conferences in his field for years, including EMSOFT in the embedded systems week series, and he is also an associate editor of ACM Transactions on Embedded Computing Systems (TECS).",
           "slide_link": "https://drive.google.com/file/d/1IzlOneM1MxG16vS0uYwOFObdgvBQ4Ovo/view?usp=sharing"
         },
@@ -235,7 +235,7 @@
           "speaker": "",
           "topic": "Closing",
           "content": "",
-          "link": "https://bbb.ssdworkshop.com/rooms/yq6-kw4-iuo-qmo/public_recordings",
+          "link": "https://drive.google.com/file/d/1744aHuWsyb5LWztMk5q4GJjSIEvgTAFn/view?usp=sharing",
           "bio": ""
         }
       ]
