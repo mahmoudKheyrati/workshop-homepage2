@@ -52,7 +52,7 @@ function replaceWithBr(s: string) {
       class="self-baseline text-xl"
       target="_blank"
     >
-      Session Link
+      Recording Link
     </UButton>
 
     <UModal v-model="isOpen">
