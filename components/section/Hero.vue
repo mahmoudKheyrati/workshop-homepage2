@@ -32,7 +32,7 @@ function scrollDown() {
           >
             {{ hero.pitch }}
           </h1>
-          <p class="text-3xl lg:text-5xl font-bold">{{ hero.title }}</p>
+          <p class="text-3xl lg:text-5xl font-bold whitespace-nowrap">{{ hero.title }}</p>
           <p class="text-3xl">{{ hero.subTitle }}</p>
         </div>
       </div>

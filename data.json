@@ -1,28 +1,244 @@
 {
   "hero": {
-    "websiteTitle": "Recent Advances in SSD Research and Practice",
+    "websiteTitle": "In-Memory and In-storage Processing",
     "pitch": "International Online Workshop on",
-    "title": "In-Memory and In-storage Processing",
+    "title": "In-Memory and In-Storage Processing",
     "subTitle": "September 25-26, 2025"
   },
   "description": "In-memory/storage processing (IMP/ISP) refers to the capability of performing computations directly within the memory/storage subsystem, rather than relying solely on traditional processing units. This paradigm shift addresses the growing challenges of data deluge and the limitations of conventional architectures, enabling faster data access, reduced latency, and improved energy efficiency.<br><br>As the volume of data generated continues to grow exponentially, traditional architectures face significant hurdles in managing and processing this data efficiently. IMP/ISP offers a solution by bringing computation closer to the data, thereby minimizing the data movement between processing and memory/storage subsystem. This innovation not only enhances performance but also reduces the energy consumption associated with data transfer, making it a more sustainable choice for future supercomputing and data centers. By leveraging advancements in memory technologies, such as non-volatile memory (NVM) and emerging storage architectures, IMP/ISP opens new avenues for optimizing big data analytics, machine learning, and real-time data processing.<br><br>The International Online Workshop on Recent Advances in Processing-in-Memory/Storage brings together researchers, practitioners, and industry leaders from around the globe to explore the transformative potential of IMP/ISP technologies. This workshop aims to foster collaboration and innovation in a field that is reshaping the future of high-performance computing, and data management and analytics.<br><br>Throughout this workshop, participants will have the opportunity to engage with a diverse range of topics, including but not limited to:<br>• Architectural Innovations: Discover the latest developments IMP/ISP architectures that and their implications for system design.<br>• Performance Optimization: Learn about techniques to optimize data processing workloads in memory/storage subsystems, enhancing overall system performance.<br>• Applications and Case Studies: Explore real-world applications and case studies demonstrating the effectiveness of IMP/ISP in various domains and scientific research.<br>• Challenges and Future Directions: Engage in discussions about the current challenges facing the field and potential future directions for research and development.<br><br>The workshop will feature talks from renowned researchers from all over the world. Together, participants can explore the frontiers of IMP/ISP and its potential to revolutionize how we handle and analyze data in an increasingly data-driven world.<br><br>This workshop aims to bring together leading researchers, engineers, and graduate students in the field of IMP/ISP, and encourage active participation, knowledge sharing, and networking among attendees.<br><br>The International Online Workshop on Recent Advances in Processing-in-Memory/Storage is jointly supported by the Korean Institute of Information Scientists and Engineers (KIISE), and the Computer Society of Iran (CSI)."
 ,
   "speakersData": [
-    
+    {
+      "profile": "./images/u.png",
+      "name": "Speaker 1",
+      "rank": "Professor",
+      "description": "Stanford University",
+      "email": "test@example.com",
+      "linkedin": "https://linkedin.com/in/test"
+    },
+    {
+      "profile": "./images/u.png",
+      "name": "Speaker 2",
+      "rank": "Professor",
+      "description": "Massachusetts Institute of Technology",
+      "email": "test@example.com",
+      "linkedin": "https://linkedin.com/in/test"
+    },
+    {
+      "profile": "./images/u.png",
+      "name": "Speaker 3",
+      "rank": "Professor",
+      "description": "University of Oxford",
+      "email": "test@example.com",
+      "linkedin": "https://linkedin.com/in/test"
+    },
+    {
+      "profile": "./images/u.png",
+      "name": "Speaker 4",
+      "rank": "Professor",
+      "description": "Harvard University",
+      "email": "test@example.com",
+      "linkedin": "https://linkedin.com/in/test"
+    },
+    {
+      "profile": "./images/u.png",
+      "name": "Speaker 5",
+      "rank": "Professor",
+      "description": "National University of Singapore",
+      "email": "test@example.com",
+      "linkedin": "https://linkedin.com/in/test"
+    },
+    {
+      "profile": "./images/u.png",
+      "name": "Speaker 6",
+      "rank": "Professor",
+      "description": "University of Toronto",
+      "email": "test@example.com",
+      "linkedin": "https://linkedin.com/in/test"
+    },
+    {
+      "profile": "./images/u.png",
+      "name": "Speaker 7",
+      "rank": "Professor",
+      "description": "California Institute of Technology",
+      "email": "test@example.com",
+      "linkedin": "https://linkedin.com/in/test"
+    },
+    {
+      "profile": "./images/u.png",
+      "name": "Speaker 8",
+      "rank": "Professor",
+      "description": "University of Cambridge",
+      "email": "test@example.com",
+      "linkedin": "https://linkedin.com/in/test"
+    },
+    {
+      "profile": "./images/u.png",
+      "name": "Speaker 9",
+      "rank": "Professor",
+      "description": "University of Melbourne",
+      "email": "test@example.com",
+      "linkedin": "https://linkedin.com/in/test"
+    },
+    {
+      "profile": "./images/u.png",
+      "name": "Speaker 10",
+      "rank": "Professor",
+      "description": "ETH Zurich",
+      "email": "test@example.com",
+      "linkedin": "https://linkedin.com/in/test"
+    },
+    {
+      "profile": "./images/u.png",
+      "name": "Speaker 11",
+      "rank": "Professor",
+      "description": "Carnegie Mellon University",
+      "email": "test@example.com",
+      "linkedin": "https://linkedin.com/in/test"
+    }
   ],
   "workshop_program": [
     {
-      "title": "Day 1, Thursday, 26 September 2025 <strong>(South Korea time)</strong>",
+      "title": "Day 1, Thursday, 25 September 2025 <strong>(South Korea time)</strong>",
       "date": "",
       "timeTable": [
-          
+        {
+          "time": "13:55 ~ 14:00",
+          "speaker": "Speaker 1",
+          "topic": "Opening Remarks",
+          "content": "Welcome and introduction to the workshop.",
+          "link": "",
+          "bio": "Short bio for Speaker 1."
+        },
+        {
+          "time": "14:00 ~ 14:50",
+          "speaker": "Speaker 2",
+          "topic": "Placeholder Talk Title",
+          "content": "Abstract and summary of the talk.",
+          "link": "",
+          "bio": "Short bio for Speaker 2.",
+          "slide_link": ""
+        },
+        {
+          "time": "14:50 ~ 15:40",
+          "speaker": "Speaker 3",
+          "topic": "Placeholder Talk Title",
+          "content": "Abstract and summary of the talk.",
+          "link": "",
+          "bio": "Short bio for Speaker 3.",
+          "slide_link": ""
+        },
+        {
+          "time": "15:40 ~ 16:30",
+          "speaker": "Speaker 4",
+          "topic": "Placeholder Talk Title",
+          "content": "Abstract and summary of the talk.",
+          "link": "",
+          "bio": "Short bio for Speaker 4.",
+          "slide_link": ""
+        },
+        {
+          "time": "16:30 ~ 17:50",
+          "speaker": "",
+          "topic": "Break",
+          "content": "",
+          "link": "",
+          "bio": ""
+        },
+        {
+          "time": "17:50 ~ 18:40",
+          "speaker": "Speaker 5",
+          "topic": "Placeholder Talk Title",
+          "content": "Abstract and summary of the talk.",
+          "link": "",
+          "bio": "Short bio for Speaker 5.",
+          "slide_link": ""
+        },
+        {
+          "time": "18:40 ~ 19:30",
+          "speaker": "Speaker 6",
+          "topic": "Placeholder Talk Title",
+          "content": "Abstract and summary of the talk.",
+          "link": "",
+          "bio": "Short bio for Speaker 6.",
+          "slide_link": ""
+        }
       ]
     },
     {
-      "title": "Day 2, Friday, 26 September 2025 <strong>(South Korea time)</strong>",
+      "title": "Day 2, Friday, 27 September 2025 <strong>(South Korea time)</strong>",
       "date": "",
       "timeTable": [
-        
+        {
+          "time": "14:00 ~ 14:50",
+          "speaker": "Speaker 7",
+          "topic": "Placeholder Talk Title",
+          "content": "Abstract and summary of the talk.",
+          "link": "",
+          "bio": "Short bio for Speaker 7.",
+          "slide_link": ""
+        },
+        {
+          "time": "14:50 ~ 15:40",
+          "speaker": "Speaker 8",
+          "topic": "Placeholder Talk Title",
+          "content": "Abstract and summary of the talk.",
+          "link": "",
+          "bio": "Short bio for Speaker 8.",
+          "slide_link": ""
+        },
+        {
+          "time": "15:40 ~ 16:30",
+          "speaker": "Speaker 9",
+          "topic": "Placeholder Talk Title",
+          "content": "Abstract and summary of the talk.",
+          "link": "",
+          "bio": "Short bio for Speaker 9.",
+          "slide_link": ""
+        },
+        {
+          "time": "16:30 ~ 17:00",
+          "speaker": "",
+          "topic": "Break",
+          "content": "",
+          "link": "",
+          "bio": ""
+        },
+        {
+          "time": "17:00 ~ 17:50",
+          "speaker": "Speaker 10",
+          "topic": "Placeholder Talk Title",
+          "content": "Abstract and summary of the talk.",
+          "link": "",
+          "bio": "Short bio for Speaker 10.",
+          "slide_link": ""
+        },
+        {
+          "time": "17:50 ~ 18:40",
+          "speaker": "Speaker 11",
+          "topic": "Placeholder Talk Title",
+          "content": "Abstract and summary of the talk.",
+          "link": "",
+          "bio": "Short bio for Speaker 11.",
+          "slide_link": ""
+        },
+        {
+          "time": "18:40 ~ 19:30",
+          "speaker": "Speaker 12",
+          "topic": "Placeholder Talk Title",
+          "content": "Abstract and summary of the talk.",
+          "link": "",
+          "bio": "Short bio for Speaker 12.",
+          "slide_link": ""
+        },
+        {
+          "time": "19:30 ~ 19:35",
+          "speaker": "",
+          "topic": "Closing",
+          "content": "Thank you for participating in the workshop.",
+          "link": "",
+          "bio": ""
+        }
       ]
     }
   ],
