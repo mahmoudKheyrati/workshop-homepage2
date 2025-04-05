@@ -99,12 +99,12 @@
   ],
   "workshop_program": [
     {
-      "title": "Day 1, Thursday, 25 September 2025 <strong>(South Korea time)</strong>",
+      "title": "Day 1, In-Memory Processing, Thursday, 25 September 2025 <strong>(South Korea time)</strong>",
       "date": "",
       "timeTable": [
         {
           "time": "13:55 ~ 14:00",
-          "speaker": "Speaker 1",
+          "speaker": "Prof. Hamid Sarbazi-Azad",
           "topic": "Opening Remarks",
           "content": "Welcome and introduction to the workshop.",
           "link": "",
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "title": "Day 2, Friday, 27 September 2025 <strong>(South Korea time)</strong>",
+      "title": "Day 2, In-Storage Processing, Friday, 27 September 2025 <strong>(South Korea time)</strong>",
       "date": "",
       "timeTable": [
         {
