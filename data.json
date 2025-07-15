@@ -9,100 +9,100 @@
 ,
 "speakersData": [
     {
-      "profile": "./images/u.png",
+      "profile": "./images/nazem_rohbani.jpeg",
       "name": "Nezam Rohbani",
-      "rank": "Senior Research Engineer",
+      "rank": "Assistant Professor",
       "description": "",
-      "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
+      "email": "rohbani@ipm.ir",
+      "linkedin": ""
     },
     {
-      "profile": "./images/u.png",
+      "profile": "./images/hamed_farbeh.jpeg",
       "name": "Hamed Farbeh",
-      "rank": "Faculty Member",
+      "rank": "assistant professor",
       "description": "",
       "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
+      "linkedin": ""
     },
     {
-      "profile": "./images/u.png",
+      "profile": "./images/mohammad_sadrosadati.jpeg",
       "name": "Mohammad Sadrossadati",
       "rank": "Senior Researcher and Lecturer",
       "description": "",
-      "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
+      "email": "mohammad.sadrosadati@safari.ethz.ch",
+      "linkedin": ""
     },
     {
-      "profile": "./images/u.png",
+      "profile": "./images/Esteban_Garzon.jpg",
       "name": "Esteban Garzon",
       "rank": "Assistant Professor",
       "description": "",
-      "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
+      "email": "esteban.garzon@unical.it",
+      "linkedin": ""
     },
     {
-      "profile": "./images/u.png",
+      "profile": "./images/Ahmad_Patooghy.jpeg",
       "name": "Ahmad Patooghy",
+      "rank": "Associate Professor",
+      "description": "",
+      "email": "apatooghy@ncat.edu",
+      "linkedin": ""
+    },
+    {
+      "profile": "./images/Kevin_Skadron.jpeg",
+      "name": "Kevin Skadron",
       "rank": "Professor",
       "description": "",
-      "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
+      "email": " ks7h@virginia.edu",
+      "linkedin": ""
     },
     {
-      "profile": "./images/u.png",
-      "name": "Kevin Skadron",
-      "rank": "Harry Douglas Forsyth Professor",
-      "description": "",
-      "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
-    },
-    {
-      "profile": "./images/u.png",
+      "profile": "./images/Xueqing_Li.jpeg",
       "name": "Xueqing Li",
       "rank": "Associate Professor",
       "description": "",
-      "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
+      "email": "xueqingli@tsinghua.edu.cn",
+      "linkedin": ""
     },
     {
-      "profile": "./images/u.png",
+      "profile": "./images/khilesh_Jaiswal.jpeg",
       "name": "Akhilesh Jaiswal",
       "rank": "Assistant Professor",
       "description": "",
-      "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
+      "email": "akhilesh.jaiswal@wisc.edu",
+      "linkedin": ""
     },
     {
-      "profile": "./images/u.png",
+      "profile": "./images/Elaheh_Sadredini.jpeg",
       "name": "Elaheh Sadredini",
       "rank": "Assistant Professor",
       "description": "",
-      "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
+      "email": "elaheh@cs.ucr.edu",
+      "linkedin": ""
     },
     {
-      "profile": "./images/u.png",
+      "profile": "./images/sudeep-pasricha.jpg",
       "name": "Sudeep Pasricha",
-      "rank": "Full Professor",
-      "description": "",
-      "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
-    },
-    {
-      "profile": "./images/u.png",
-      "name": "Mehdi Modarressi",
       "rank": "Professor",
       "description": "",
-      "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
+      "email": "sudeep@colostate.edu",
+      "linkedin": ""
     },
     {
-      "profile": "./images/u.png",
+      "profile": "./images/Mehdi_Modarressi.jpeg",
+      "name": "Mehdi Modarressi",
+      "rank": "Associate Professor",
+      "description": "",
+      "email": "modarressi@ut.ac.ir",
+      "linkedin": ""
+    },
+    {
+      "profile": "./images/Oguz_Ergin.jpeg",
       "name": "Oguz Ergin",
       "rank": "Professor",
       "description": "",
-      "email": "test@example.com",
-      "linkedin": "https://linkedin.com/in/test"
+      "email": "oergin@sharjah.ac.ae",
+      "linkedin": ""
     }
   ],
   "workshop_program": [
@@ -112,7 +112,7 @@
       "timeTable": [
         {
           "time": "13:00 ~ 13:10",
-          "speaker": "Prof. Lee",
+          "speaker": "Jeong-A Lee",
           "topic": "Opening Remarks",
           "content": "Welcome and introduction to the workshop.",
           "link": "",
@@ -251,7 +251,7 @@
         },
         {
           "time": "18:30 ~ 18:45",
-          "speaker": "Prof. Sarbazi-Azad",
+          "speaker": "Hamid Sarbazi-Azad",
           "topic": "Closing",
           "content": "Thank you for participating in the workshop.",
           "link": "",
