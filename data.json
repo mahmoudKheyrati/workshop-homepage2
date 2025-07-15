@@ -65,14 +65,6 @@
       "linkedin": ""
     },
     {
-      "profile": "./images/nazem_rohbani.jpeg",
-      "name": "Nezam Rohbani",
-      "rank": "Assistant Professor",
-      "description": "",
-      "email": "rohbani@ipm.ir",
-      "linkedin": ""
-    },
-    {
       "profile": "./images/hamed_farbeh.jpeg",
       "name": "Hamed Farbeh",
       "rank": "Assistant professor",
@@ -104,6 +96,14 @@
       "rank": "Senior Researcher",
       "description": "",
       "email": "mohammad.sadrosadati@safari.ethz.ch",
+      "linkedin": ""
+    },
+    {
+      "profile": "./images/nazem_rohbani.jpeg",
+      "name": "Nezam Rohbani",
+      "rank": "Researcher",
+      "description": "",
+      "email": "rohbani@ipm.ir",
       "linkedin": ""
     }
 
