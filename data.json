@@ -8,76 +8,12 @@
   "description": "In-memory/storage processing (IMP/ISP) refers to the capability of performing computations directly within the memory/storage subsystem, rather than relying solely on traditional processing units. This paradigm shift addresses the growing challenges of data deluge and the limitations of conventional architectures, enabling faster data access, reduced latency, and improved energy efficiency.<br><br>As the volume of data generated continues to grow exponentially, traditional architectures face significant hurdles in managing and processing this data efficiently. IMP/ISP offers a solution by bringing computation closer to the data, thereby minimizing the data movement between processing and memory/storage subsystem. This innovation not only enhances performance but also reduces the energy consumption associated with data transfer, making it a more sustainable choice for future supercomputing and data centers. By leveraging advancements in memory technologies, such as non-volatile memory (NVM) and emerging storage architectures, IMP/ISP opens new avenues for optimizing big data analytics, machine learning, and real-time data processing.<br><br>The International Online Workshop on Recent Advances in Processing-in-Memory/Storage brings together researchers, practitioners, and industry leaders from around the globe to explore the transformative potential of IMP/ISP technologies. This workshop aims to foster collaboration and innovation in a field that is reshaping the future of high-performance computing, and data management and analytics.<br><br>Throughout this workshop, participants will have the opportunity to engage with a diverse range of topics, including but not limited to:<br>• Architectural Innovations: Discover the latest developments IMP/ISP architectures that and their implications for system design.<br>• Performance Optimization: Learn about techniques to optimize data processing workloads in memory/storage subsystems, enhancing overall system performance.<br>• Applications and Case Studies: Explore real-world applications and case studies demonstrating the effectiveness of IMP/ISP in various domains and scientific research.<br>• Challenges and Future Directions: Engage in discussions about the current challenges facing the field and potential future directions for research and development.<br><br>The workshop will feature talks from renowned researchers from all over the world. Together, participants can explore the frontiers of IMP/ISP and its potential to revolutionize how we handle and analyze data in an increasingly data-driven world.<br><br>This workshop aims to bring together leading researchers, engineers, and graduate students in the field of IMP/ISP, and encourage active participation, knowledge sharing, and networking among attendees.<br><br>The International Online Workshop on Recent Advances in Processing-in-Memory/Storage is jointly supported by the Korean Institute of Information Scientists and Engineers (KIISE), and the Computer Society of Iran (CSI)."
 ,
 "speakersData": [
-    {
-      "profile": "./images/nazem_rohbani.jpeg",
-      "name": "Nezam Rohbani",
-      "rank": "Assistant Professor",
-      "description": "",
-      "email": "rohbani@ipm.ir",
-      "linkedin": ""
-    },
-    {
-      "profile": "./images/hamed_farbeh.jpeg",
-      "name": "Hamed Farbeh",
-      "rank": "assistant professor",
-      "description": "",
-      "email": "test@example.com",
-      "linkedin": ""
-    },
-    {
-      "profile": "./images/mohammad_sadrosadati.jpeg",
-      "name": "Mohammad Sadrossadati",
-      "rank": "Senior Researcher and Lecturer",
-      "description": "",
-      "email": "mohammad.sadrosadati@safari.ethz.ch",
-      "linkedin": ""
-    },
-    {
-      "profile": "./images/Esteban_Garzon.jpg",
-      "name": "Esteban Garzon",
-      "rank": "Assistant Professor",
-      "description": "",
-      "email": "esteban.garzon@unical.it",
-      "linkedin": ""
-    },
-    {
-      "profile": "./images/Ahmad_Patooghy.jpeg",
-      "name": "Ahmad Patooghy",
-      "rank": "Associate Professor",
-      "description": "",
-      "email": "apatooghy@ncat.edu",
-      "linkedin": ""
-    },
-    {
+   {
       "profile": "./images/Kevin_Skadron.jpeg",
       "name": "Kevin Skadron",
       "rank": "Professor",
       "description": "",
       "email": " ks7h@virginia.edu",
-      "linkedin": ""
-    },
-    {
-      "profile": "./images/Xueqing_Li.jpeg",
-      "name": "Xueqing Li",
-      "rank": "Associate Professor",
-      "description": "",
-      "email": "xueqingli@tsinghua.edu.cn",
-      "linkedin": ""
-    },
-    {
-      "profile": "./images/khilesh_Jaiswal.jpeg",
-      "name": "Akhilesh Jaiswal",
-      "rank": "Assistant Professor",
-      "description": "",
-      "email": "akhilesh.jaiswal@wisc.edu",
-      "linkedin": ""
-    },
-    {
-      "profile": "./images/Elaheh_Sadredini.jpeg",
-      "name": "Elaheh Sadredini",
-      "rank": "Assistant Professor",
-      "description": "",
-      "email": "elaheh@cs.ucr.edu",
       "linkedin": ""
     },
     {
@@ -89,6 +25,22 @@
       "linkedin": ""
     },
     {
+      "profile": "./images/Oguz_Ergin.jpeg",
+      "name": "Oguz Ergin",
+      "rank": "Professor",
+      "description": "",
+      "email": "oergin@sharjah.ac.ae",
+      "linkedin": ""
+    },
+     {
+      "profile": "./images/Xueqing_Li.jpeg",
+      "name": "Xueqing Li",
+      "rank": "Associate Professor",
+      "description": "",
+      "email": "xueqingli@tsinghua.edu.cn",
+      "linkedin": ""
+    },
+    {
       "profile": "./images/Mehdi_Modarressi.jpeg",
       "name": "Mehdi Modarressi",
       "rank": "Associate Professor",
@@ -97,13 +49,65 @@
       "linkedin": ""
     },
     {
-      "profile": "./images/Oguz_Ergin.jpeg",
-      "name": "Oguz Ergin",
-      "rank": "Professor",
+      "profile": "./images/Ahmad_Patooghy.jpeg",
+      "name": "Ahmad Patooghy",
+      "rank": "Associate Professor",
       "description": "",
-      "email": "oergin@sharjah.ac.ae",
+      "email": "apatooghy@ncat.edu",
+      "linkedin": ""
+    },
+    {
+      "profile": "./images/Elaheh_Sadredini.jpeg",
+      "name": "Elaheh Sadredini",
+      "rank": "Assistant Professor",
+      "description": "",
+      "email": "elaheh@cs.ucr.edu",
+      "linkedin": ""
+    },
+    {
+      "profile": "./images/nazem_rohbani.jpeg",
+      "name": "Nezam Rohbani",
+      "rank": "Assistant Professor",
+      "description": "",
+      "email": "rohbani@ipm.ir",
+      "linkedin": ""
+    },
+    {
+      "profile": "./images/hamed_farbeh.jpeg",
+      "name": "Hamed Farbeh",
+      "rank": "Assistant professor",
+      "description": "",
+      "email": "test@example.com",
+      "linkedin": ""
+    },
+    
+    {
+      "profile": "./images/Esteban_Garzon.jpg",
+      "name": "Esteban Garzon",
+      "rank": "Assistant Professor",
+      "description": "",
+      "email": "esteban.garzon@unical.it",
+      "linkedin": ""
+    },
+    
+    {
+      "profile": "./images/khilesh_Jaiswal.jpeg",
+      "name": "Akhilesh Jaiswal",
+      "rank": "Assistant Professor",
+      "description": "",
+      "email": "akhilesh.jaiswal@wisc.edu",
+      "linkedin": ""
+    },
+    {
+      "profile": "./images/mohammad_sadrosadati.jpeg",
+      "name": "Mohammad Sadrossadati",
+      "rank": "Senior Researcher and Lecturer",
+      "description": "",
+      "email": "mohammad.sadrosadati@safari.ethz.ch",
       "linkedin": ""
     }
+
+    
   ],
   "workshop_program": [
     {
