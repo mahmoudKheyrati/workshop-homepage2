@@ -1,1 +1,0 @@
-import{h as t}from"./CouPXiae.js";import{n as a,u as s,c as o,o as r,v as n}from"./Cj1rN2A1.js";const l={class:"dark:bg-neutral-950 bg-neutral-50"},_=a({__name:"default",setup(c){return s({title:t.websiteTitle}),(e,u)=>(r(),o("div",l,[n(e.$slots,"default")]))}});export{_ as default};
