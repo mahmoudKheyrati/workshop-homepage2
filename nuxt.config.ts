@@ -10,5 +10,5 @@ export default defineNuxtConfig({
     },
   },
   modules: ["@nuxt/ui", "@nuxtjs/tailwindcss", "@nuxt/image", "@nuxt/icon"],
-  ssr: true,
+  ssr: false,
 });
