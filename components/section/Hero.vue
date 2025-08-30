@@ -13,7 +13,7 @@ function scrollDown() {
 <template>
   <div class="relative w-full h-screen z-0">
     <NuxtImg
-      src="./images/memory.jpg"
+      src="https://ssdworkshop.com/images/memory.jpg"
       class="absolute -z-20 inset-0 object-cover h-full w-full lg:block "
       placeholder
     />
